@@ -27,24 +27,15 @@ jobs:
     - name: Checkout main repository
       uses: actions/checkout@v4
       
-    - name: Setup cian-tracker repository (minimal checkout)
+    - name: Setup cian-tracker repository (full checkout)
       run: |
-        # Clone with no checkout to setup repository
-        git clone --no-checkout https://x-access-token:${{ secrets.CIAN_TRACKER_TOKEN }}@github.com/klimmm/cian-tracker.git cian-tracker
+        # Clone full repository
+        git clone https://x-access-token:${{ secrets.CIAN_TRACKER_TOKEN }}@github.com/klimmm/cian-tracker.git cian-tracker
         cd cian-tracker
         
         # Configure git
         git config user.email "action@github.com"
         git config user.name "GitHub Action"
-        
-        # Enable sparse checkout
-        git config core.sparseCheckout true
-        
-        # Create sparse-checkout file (initially empty - we'll populate it after filtering)
-        echo "" > .git/info/sparse-checkout
-        
-        # Minimal checkout to get repository structure
-        git checkout main
       
     - name: Set up Python 3.9
       uses: actions/setup-python@v4
@@ -76,15 +67,49 @@ jobs:
           --workers 2 \
           --no-predict
 
-    - name: Commit and push images to cian-tracker
+    - name: Debug and commit images to cian-tracker
       run: |
         cd cian-tracker
         
-        # Disable sparse checkout temporarily to see all files
-        git config core.sparseCheckout false
+        # 1. Check what files actually exist in images/
+        echo "🔍 CHECKING FILESYSTEM:"
+        echo "Contents of images/:"
+        ls -la images/ | head -20
+        echo "Looking for 318598750:"
+        ls -la images/ | grep 318598750 || echo "318598750 NOT FOUND"
+        if [ -d "images/318598750" ]; then
+          echo "318598750 directory exists, contents:"
+          ls -la images/318598750/
+        fi
         
-        # Add all images (including new ones)
-        git add images/
+        # 2. Check git index status
+        echo "🔍 CHECKING GIT INDEX:"
+        echo "Git status before add:"
+        git status --porcelain
+        echo "Git ls-files (what git tracks):"
+        git ls-files images/ | head -10
+        
+        # 3. Check if sparse checkout is corrupted
+        echo "🔍 CHECKING SPARSE CHECKOUT:"
+        git config core.sparseCheckout || echo "sparse checkout not set"
+        if [ -f .git/info/sparse-checkout ]; then
+          echo "sparse-checkout file exists:"
+          cat .git/info/sparse-checkout
+        else
+          echo "No sparse-checkout file"
+        fi
+        
+        # Force create test file
+        mkdir -p images/318598750
+        echo "test image" > images/318598750/test.jpg
+        
+        # Add all images
+        git add -A images/
+        
+        # Show what git sees after add
+        echo "🔍 AFTER GIT ADD:"
+        git status --porcelain
+        git diff --cached --name-only
         
         # Check if there are changes to commit
         if git diff --cached --quiet; then
