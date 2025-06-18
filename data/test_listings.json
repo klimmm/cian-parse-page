@@ -1,0 +1,25 @@
+[
+  {
+    "offer_id": "123456789",
+    "title": "Test Apartment 1",
+    "price": 50000,
+    "address": "Test Address 1",
+    "image_urls": [
+      "https://cdn-p.cian.site/images/1/234/567/apartment1_1.jpg",
+      "https://cdn-p.cian.site/images/1/234/567/apartment1_2.jpg"
+    ],
+    "url": "https://cian.ru/rent/flat/123456789/"
+  },
+  {
+    "offer_id": "987654321", 
+    "title": "Test Apartment 2",
+    "price": 75000,
+    "address": "Test Address 2",
+    "image_urls": [
+      "https://cdn-p.cian.site/images/9/876/543/apartment2_1.jpg",
+      "https://cdn-p.cian.site/images/9/876/543/apartment2_2.jpg",
+      "https://cdn-p.cian.site/images/9/876/543/apartment2_3.jpg"
+    ],
+    "url": "https://cian.ru/rent/flat/987654321/"
+  }
+]
