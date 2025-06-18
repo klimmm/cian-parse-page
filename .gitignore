@@ -161,7 +161,7 @@ dmypy.json
 # Project specific
 data/*.json
 !data/.gitkeep
-*.h5
+# *.h5 - Allow ML model files
 *.log
 .DS_Store
 cian-tracker/
