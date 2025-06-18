@@ -100,7 +100,7 @@ jobs:
         fi
         
     - name: Upload images as backup artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: always()
       with:
         name: downloaded-images-backup
@@ -108,7 +108,7 @@ jobs:
         retention-days: 7
         
     - name: Upload filtered listings debug file
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: always()
       with:
         name: filtered-listings-debug
