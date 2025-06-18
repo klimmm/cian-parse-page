@@ -78,11 +78,8 @@ def count_existing_images_from_git(repo_path: str, offer_id: str) -> int:
 
 
 def smart_prefilter_listings(all_listings: list, repo_path: str) -> list:
-    """Filter listings using git ls-tree (without full checkout)."""
-    print(f"🔍 Smart filtering {len(all_listings)} listings...")
-    
-    # Get existing directories from git
-    existing_dirs = get_existing_directories_from_git(repo_path)
+    """Filter listings - FORCE DOWNLOAD ALL for now."""
+    print(f"🔥 HARDCORE MODE: Downloading ALL {len(all_listings)} listings...")
     
     to_download = []
     
@@ -94,41 +91,52 @@ def smart_prefilter_listings(all_listings: list, repo_path: str) -> list:
         if expected == 0:
             continue
 
-        # Check if directory exists and count images
-        if offer_id in existing_dirs:
-            existing = count_existing_images_from_git(repo_path, offer_id)
-        else:
-            existing = 0
-            
-        missing = expected - existing
+        print(f"🔥 {offer_id}: FORCE DOWNLOAD {expected} images")
+        to_download.append(listing)
 
-        if existing < expected / 2:  # Only download if less than half of images exist
-            print(f"⚠️ {offer_id}: have {existing}/{expected}, missing {missing} images, queuing")
-            to_download.append(listing)
-        else:
-            print(f"⏩ {offer_id}: have {existing}/{expected}, skipping (less than half missing)")
-
-    print(f"🆕 {len(to_download)} offers need images")
+    print(f"🆕 {len(to_download)} offers will be downloaded")
     return to_download
 
 
 def download_image(url: str, filepath: str, max_retries: int = 3) -> bool:
     """Download a single image with retries."""
+    print(f"🔥 DEBUG: Attempting to download {url} -> {filepath}")
+    
     for attempt in range(max_retries):
         try:
+            print(f"🔥 DEBUG: Attempt {attempt + 1} for {url}")
             response = requests.get(url, timeout=30, stream=True)
+            print(f"🔥 DEBUG: Got response {response.status_code} for {url}")
+            
             if response.status_code == 200:
+                print(f"🔥 DEBUG: Creating directory {os.path.dirname(filepath)}")
                 os.makedirs(os.path.dirname(filepath), exist_ok=True)
+                
+                print(f"🔥 DEBUG: Writing file {filepath}")
                 with open(filepath, 'wb') as f:
+                    bytes_written = 0
                     for chunk in response.iter_content(chunk_size=8192):
                         f.write(chunk)
-                return True
+                        bytes_written += len(chunk)
+                
+                print(f"🔥 DEBUG: Successfully wrote {bytes_written} bytes to {filepath}")
+                
+                # Verify file exists and has content
+                if os.path.exists(filepath):
+                    size = os.path.getsize(filepath)
+                    print(f"🔥 DEBUG: File {filepath} exists with size {size} bytes")
+                    return True
+                else:
+                    print(f"🔥 DEBUG: ERROR - File {filepath} does not exist after writing!")
+                    return False
             else:
                 print(f"⚠️ HTTP {response.status_code} for {url}")
         except Exception as e:
             print(f"⚠️ Attempt {attempt + 1} failed for {url}: {e}")
             if attempt < max_retries - 1:
                 time.sleep(2 ** attempt)  # Exponential backoff
+    
+    print(f"🔥 DEBUG: All attempts failed for {url}")
     return False
 
 
@@ -292,8 +300,8 @@ def main():
         print("📊 Summary: 0 listings processed, 0 images downloaded")
         return
     
-    # Setup sparse checkout for only needed directories
-    setup_sparse_checkout(repo_path, filtered_listings)
+    # Skip sparse checkout setup - we need full repo access for committing
+    # setup_sparse_checkout(repo_path, filtered_listings)
     
     # Create image directory structure
     os.makedirs(args.image_dir, exist_ok=True)
