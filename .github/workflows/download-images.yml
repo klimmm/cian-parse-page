@@ -27,9 +27,12 @@ jobs:
     - name: Checkout main repository
       uses: actions/checkout@v4
       
-    - name: Setup cian-tracker repository (full checkout)
+    - name: Setup cian-tracker repository (fresh clone)
       run: |
-        # Clone full repository
+        # Delete any existing cian-tracker directory
+        rm -rf cian-tracker
+        
+        # Clone fresh repository with full checkout
         git clone https://x-access-token:${{ secrets.CIAN_TRACKER_TOKEN }}@github.com/klimmm/cian-tracker.git cian-tracker
         cd cian-tracker
         
@@ -67,16 +70,13 @@ jobs:
           --workers 2 \
           --no-predict
 
-    - name: Fix sparse checkout and commit images
+    - name: Commit downloaded images
       run: |
         cd cian-tracker
         
-        # COMPLETELY DISABLE SPARSE CHECKOUT
-        git config --unset core.sparseCheckout || true
-        rm -f .git/info/sparse-checkout
-        
-        # FORCE ADD ALL FILES INCLUDING UNTRACKED ONES
-        git add -A .
+        # Simple add and commit - no sparse checkout bullshit
+        git add images/
+        git status
         
         # Check if there are changes to commit
         if git diff --cached --quiet; then
