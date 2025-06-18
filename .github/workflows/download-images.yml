@@ -80,8 +80,11 @@ jobs:
       run: |
         cd cian-tracker
         
-        # Add all images (including new ones) with sparse option
-        git add --sparse images/
+        # Disable sparse checkout temporarily to see all files
+        git config core.sparseCheckout false
+        
+        # Add all images (including new ones)
+        git add images/
         
         # Check if there are changes to commit
         if git diff --cached --quiet; then

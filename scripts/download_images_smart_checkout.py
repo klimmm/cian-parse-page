@@ -198,19 +198,24 @@ def setup_sparse_checkout(repo_path: str, filtered_listings: list):
     """Setup sparse checkout for only the directories we need."""
     print(f"🎯 Setting up sparse checkout for {len(filtered_listings)} listings...")
     
+    # Get existing directories that we might need
+    existing_dirs = get_existing_directories_from_git(repo_path)
+    
     # Create sparse-checkout patterns
     patterns = ["images/"]  # Always include the images directory structure
     
+    # Only add patterns for directories that already exist
     for listing in filtered_listings:
         offer_id = str(listing.get("offer_id"))
-        patterns.append(f"images/{offer_id}/")
+        if offer_id in existing_dirs:
+            patterns.append(f"images/{offer_id}/")
     
     # Write sparse-checkout file
     sparse_file = os.path.join(repo_path, '.git', 'info', 'sparse-checkout')
     with open(sparse_file, 'w') as f:
         f.write('\n'.join(patterns))
     
-    print(f"📝 Created sparse-checkout with {len(patterns)} patterns")
+    print(f"📝 Created sparse-checkout with {len(patterns)} patterns (for existing dirs only)")
     
     # Apply sparse checkout
     try:
