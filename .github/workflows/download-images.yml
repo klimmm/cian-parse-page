@@ -93,21 +93,34 @@ jobs:
         TOTAL_FILES=$(find images/ -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" | wc -l)
         echo "🔍 Total image files in filesystem: $TOTAL_FILES"
         
-        # Force add all files in images directory
+        # Check what files are untracked (new)
+        echo "🔍 Untracked files:"
+        git ls-files --others --exclude-standard images/ | head -10
+        
+        # Force add all files including untracked ones
         git add -A images/
+        git add images/ --force
         
         # Debug git status after adding  
         echo "🔍 Git status after add:"
         git status --porcelain
         echo "🔍 Staged files:"
-        git diff --cached --name-only
+        git diff --cached --name-only | head -20
+        
+        # Check for 318598750 specifically
+        echo "🔍 318598750 files staged:"
+        git diff --cached --name-only | grep "318598750" || echo "None found"
         
         # Alternative check: count staged image files directly
         STAGED_FILES=$(git diff --cached --name-only | grep -E '\.(jpg|jpeg|png)$' | wc -l)
         echo "🔍 Staged image files: $STAGED_FILES"
         
-        # Check if there are changes to commit (use staged file count instead of git diff --cached --quiet)
-        if [ "$STAGED_FILES" -eq 0 ]; then
+        # Force commit if any new files exist (even if git diff shows nothing)
+        NEW_FILES_COUNT=$(find images/ -name "*.jpg" -newer images/. 2>/dev/null | wc -l)
+        echo "🔍 Recently created files: $NEW_FILES_COUNT"
+        
+        # Check if there are changes to commit
+        if [ "$STAGED_FILES" -eq 0 ] && [ "$NEW_FILES_COUNT" -eq 0 ]; then
           echo "No new images to commit"
         else
           # Use the staged files count we already calculated
