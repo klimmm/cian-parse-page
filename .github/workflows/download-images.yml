@@ -71,15 +71,12 @@ jobs:
       run: |
         cd cian-tracker
         
-        # COMPLETELY REMOVE SPARSE CHECKOUT
-        git config core.sparseCheckout false
+        # COMPLETELY DISABLE SPARSE CHECKOUT
+        git config --unset core.sparseCheckout || true
         rm -f .git/info/sparse-checkout
         
-        # FORCE GIT TO SEE ALL FILES WITHOUT LOSING DOWNLOADED IMAGES
-        git read-tree -m -u HEAD
-        
-        # Add all images (git should now see them)
-        git add -A images/
+        # FORCE ADD ALL FILES INCLUDING UNTRACKED ONES
+        git add -A .
         
         # Check if there are changes to commit
         if git diff --cached --quiet; then
