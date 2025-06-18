@@ -85,9 +85,18 @@ jobs:
           ls -la images/318598750/
         fi
         
-        # Simple add and commit - no sparse checkout bullshit
-        git add images/
-        git status
+        # Debug git status before adding
+        echo "🔍 Git status before add:"
+        git status --porcelain
+        
+        # Force add all files in images directory
+        git add -A images/
+        
+        # Debug git status after adding  
+        echo "🔍 Git status after add:"
+        git status --porcelain
+        echo "🔍 Staged files:"
+        git diff --cached --name-only
         
         # Check if there are changes to commit
         if git diff --cached --quiet; then
