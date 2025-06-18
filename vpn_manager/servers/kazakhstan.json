@@ -1,0 +1,14 @@
+{
+  "tag": "kazakhstan",
+  "server": "frinkory.ru",
+  "server_port": 8443,
+  "uuid": "4c143089-1f11-486f-b8bd-3d3dfebf7801",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "frinkory.kz",
+    "reality": {
+      "public_key": "TVgpeTzjU9fQNdJIW8WxAn_EC5FFxRQfadDjH30Xz3c",
+      "short_id": "56e859a5d969c808"
+    }
+  }
+}

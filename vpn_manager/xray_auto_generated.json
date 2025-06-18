@@ -1,0 +1,845 @@
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks-canada",
+      "port": 10801,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-england",
+      "port": 10802,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-finland",
+      "port": 10803,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-france",
+      "port": 10804,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-germany",
+      "port": 10805,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-hongkong",
+      "port": 10806,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-hungary",
+      "port": 10807,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-italy",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-japan",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-kazakhstan",
+      "port": 10810,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-latvia",
+      "port": 10811,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-netherlands",
+      "port": 10812,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-poland",
+      "port": 10813,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-russia",
+      "port": 10814,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-spain",
+      "port": 10815,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-switzerland",
+      "port": 10816,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-turkey",
+      "port": 10817,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "socks-usa",
+      "port": 10818,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "canada-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "wintassa.site",
+            "port": 8443,
+            "users": [
+              {
+                "id": "794bd8b3-69c1-43f8-819d-6bf218b53f19",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "wintassa.com",
+          "fingerprint": "chrome",
+          "publicKey": "CfFyRy7BlzQMmXIeWQI1QaBwL8z1TVoaTFmGSRsqXHs",
+          "shortId": "5a0a42a4aaf9512c"
+        }
+      }
+    },
+    {
+      "tag": "england-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "crapelo.site",
+            "port": 8443,
+            "users": [
+              {
+                "id": "81434eae-bf29-496a-922d-a1bcdf66d5d9",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "norkello.com",
+          "fingerprint": "chrome",
+          "publicKey": "NqSAN1b9lkRLJRn5TEDG0wj7ljN8WvMdXyokJXzIxCs",
+          "shortId": "b513d1f261bb7235"
+        }
+      }
+    },
+    {
+      "tag": "finland-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "skoffery.store",
+            "port": 8443,
+            "users": [
+              {
+                "id": "b0028384-9c5b-4337-98a9-ff019af32626",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "skoffery.com",
+          "fingerprint": "chrome",
+          "publicKey": "sIxUEhQz9B17--Buqgm9UmSUkYVewtKKXR62OB_LNkY",
+          "shortId": "69e6bf47a9d3be87"
+        }
+      }
+    },
+    {
+      "tag": "france-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "lupivera.site",
+            "port": 8443,
+            "users": [
+              {
+                "id": "c8cc3b7b-9496-4e85-b02d-e5e87dafdbc1",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "lupivera.com",
+          "fingerprint": "chrome",
+          "publicKey": "JJtWBWNNdTXyoUjAEUj4TmLobXhWeov6gN49GbbwXmA",
+          "shortId": "0ce3b64234990ead"
+        }
+      }
+    },
+    {
+      "tag": "germany-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "hummylane.online",
+            "port": 8443,
+            "users": [
+              {
+                "id": "fbdf7372-a57b-4c06-8c1c-bacbb80eed22",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "hummylane.com",
+          "fingerprint": "chrome",
+          "publicKey": "ky3t1iV9CUfV0YgTFUXb86wLGP1-5iy3mvBX0x05nSs",
+          "shortId": "d2bb16ec9f9bf907"
+        }
+      }
+    },
+    {
+      "tag": "hongkong-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "merlinty.site",
+            "port": 8443,
+            "users": [
+              {
+                "id": "a7851900-6ddb-406d-9f20-bbe6159d06d6",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "merlinty.com",
+          "fingerprint": "chrome",
+          "publicKey": "uWB8HfNVK_-9KtjDGjmBovnYxTh6wN95APRUBmCC30M",
+          "shortId": "9925643a6fad995c"
+        }
+      }
+    },
+    {
+      "tag": "hungary-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "grinoree.ru",
+            "port": 8443,
+            "users": [
+              {
+                "id": "8f530912-0185-4962-a57c-34296ff31f3a",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "grinoree.com",
+          "fingerprint": "chrome",
+          "publicKey": "7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg",
+          "shortId": "8ba12e75110b7a9c"
+        }
+      }
+    },
+    {
+      "tag": "italy-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "tralalero.site",
+            "port": 8443,
+            "users": [
+              {
+                "id": "ef6e620e-b499-4bed-a78f-ac6a7bf9262b",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "tralalero.online",
+          "fingerprint": "chrome",
+          "publicKey": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
+          "shortId": "6419bed7fd0a2cff"
+        }
+      }
+    },
+    {
+      "tag": "japan-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "shimorra.site",
+            "port": 8443,
+            "users": [
+              {
+                "id": "d6f73cb9-2881-4a1b-b76b-d64bf30d4cf9",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "shimorra.pro",
+          "fingerprint": "chrome",
+          "publicKey": "CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8",
+          "shortId": "98f4e12d491b58ec"
+        }
+      }
+    },
+    {
+      "tag": "kazakhstan-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "frinkory.ru",
+            "port": 8443,
+            "users": [
+              {
+                "id": "4c143089-1f11-486f-b8bd-3d3dfebf7801",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "frinkory.kz",
+          "fingerprint": "chrome",
+          "publicKey": "TVgpeTzjU9fQNdJIW8WxAn_EC5FFxRQfadDjH30Xz3c",
+          "shortId": "56e859a5d969c808"
+        }
+      }
+    },
+    {
+      "tag": "latvia-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "braskivo.ru",
+            "port": 8443,
+            "users": [
+              {
+                "id": "ce7af819-020b-42dc-9fe1-6377dc64a6b3",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "braskivo.com",
+          "fingerprint": "chrome",
+          "publicKey": "7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0",
+          "shortId": "f1071c148a5aefc4"
+        }
+      }
+    },
+    {
+      "tag": "netherlands-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "midorinote.online",
+            "port": 8443,
+            "users": [
+              {
+                "id": "75709658-4158-4ea7-b8fd-a77fe43b7ab9",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "midorinote.org",
+          "fingerprint": "chrome",
+          "publicKey": "Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0",
+          "shortId": "808e2d36726ee97e"
+        }
+      }
+    },
+    {
+      "tag": "poland-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "norkello.online",
+            "port": 8443,
+            "users": [
+              {
+                "id": "2decf5ca-e8c7-4f49-91df-e778cb2d816a",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "norkello.org",
+          "fingerprint": "chrome",
+          "publicKey": "Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc",
+          "shortId": "887c0d72e771a934"
+        }
+      }
+    },
+    {
+      "tag": "russia-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "zolinder.online",
+            "port": 8443,
+            "users": [
+              {
+                "id": "ae22405d-ac04-4a17-8b3a-6359c9ec4bed",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "zolinder.ru",
+          "fingerprint": "chrome",
+          "publicKey": "2566-27FWlgHXfhcbxCIZ2RTD_rqHzLhWfcvNuNpuGc",
+          "shortId": "baa01fe9c8c418fc"
+        }
+      }
+    },
+    {
+      "tag": "spain-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "velsanto.online",
+            "port": 8443,
+            "users": [
+              {
+                "id": "6369d644-3a7b-45cf-b321-7958003a9a7f",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "velsanto.com",
+          "fingerprint": "chrome",
+          "publicKey": "zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg",
+          "shortId": "48fccabc158a4c22"
+        }
+      }
+    },
+    {
+      "tag": "switzerland-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "draysilo.site",
+            "port": 8443,
+            "users": [
+              {
+                "id": "d71af8ba-752f-4c5b-8eba-d2db4be06a64",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "draysilo.com",
+          "fingerprint": "chrome",
+          "publicKey": "kfPQFX7o9u9jxviYVnjfwxiqyVUD7rpMulG_x7Wwkgc",
+          "shortId": "666ae076fa1a4aca"
+        }
+      }
+    },
+    {
+      "tag": "turkey-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "quarenty.site",
+            "port": 8443,
+            "users": [
+              {
+                "id": "64b8d608-91a6-4a43-8a51-e4169a10187e",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "quarenty.com",
+          "fingerprint": "chrome",
+          "publicKey": "zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04",
+          "shortId": "c6ef72e4635d15a5"
+        }
+      }
+    },
+    {
+      "tag": "usa-out",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "jallermo.site",
+            "port": 8443,
+            "users": [
+              {
+                "id": "303500d8-9e79-4ef1-962e-f6434c957da6",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "jallermo.com",
+          "fingerprint": "chrome",
+          "publicKey": "61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0",
+          "shortId": "cefa7ca418bd0dcb"
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    }
+  ],
+  "routing": {
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-canada"
+        ],
+        "outboundTag": "canada-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-england"
+        ],
+        "outboundTag": "england-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-finland"
+        ],
+        "outboundTag": "finland-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-france"
+        ],
+        "outboundTag": "france-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-germany"
+        ],
+        "outboundTag": "germany-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-hongkong"
+        ],
+        "outboundTag": "hongkong-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-hungary"
+        ],
+        "outboundTag": "hungary-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-italy"
+        ],
+        "outboundTag": "italy-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-japan"
+        ],
+        "outboundTag": "japan-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-kazakhstan"
+        ],
+        "outboundTag": "kazakhstan-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-latvia"
+        ],
+        "outboundTag": "latvia-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-netherlands"
+        ],
+        "outboundTag": "netherlands-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-poland"
+        ],
+        "outboundTag": "poland-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-russia"
+        ],
+        "outboundTag": "russia-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-spain"
+        ],
+        "outboundTag": "spain-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-switzerland"
+        ],
+        "outboundTag": "switzerland-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-turkey"
+        ],
+        "outboundTag": "turkey-out"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "socks-usa"
+        ],
+        "outboundTag": "usa-out"
+      }
+    ]
+  }
+}

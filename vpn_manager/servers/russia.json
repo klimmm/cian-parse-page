@@ -1,0 +1,14 @@
+{
+  "tag": "russia",
+  "server": "zolinder.online",
+  "server_port": 8443,
+  "uuid": "ae22405d-ac04-4a17-8b3a-6359c9ec4bed",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "zolinder.ru",
+    "reality": {
+      "public_key": "2566-27FWlgHXfhcbxCIZ2RTD_rqHzLhWfcvNuNpuGc",
+      "short_id": "baa01fe9c8c418fc"
+    }
+  }
+}

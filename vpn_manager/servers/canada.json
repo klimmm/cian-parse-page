@@ -1,0 +1,14 @@
+{
+  "tag": "canada",
+  "server": "wintassa.site",
+  "server_port": 8443,
+  "uuid": "794bd8b3-69c1-43f8-819d-6bf218b53f19",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "wintassa.com",
+    "reality": {
+      "public_key": "CfFyRy7BlzQMmXIeWQI1QaBwL8z1TVoaTFmGSRsqXHs",
+      "short_id": "5a0a42a4aaf9512c"
+    }
+  }
+}

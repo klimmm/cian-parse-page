@@ -1,0 +1,68 @@
+UNIQUE FIELDS ANALYSIS FOR LISTINGS.JSON
+==================================================
+
+RENTAL_TERMS FIELDS (9 unique):
+------------------------------
+Залог                                    (appears in 1809 listings)
+Комиссии                                 (appears in 439 listings)
+Комиссия                                 (appears in 1370 listings)
+Оплата ЖКХ                               (appears in 1809 listings)
+Предоплата                               (appears in 1783 listings)
+Предоплаты                               (appears in 26 listings)
+Срок аренды                              (appears in 1809 listings)
+Торг                                     (appears in 11 listings)
+Условия проживания                       (appears in 1064 listings)
+
+APARTMENT FIELDS (16 unique):
+------------------------------
+Балкон/лоджия                            (appears in 1138 listings)
+Вид из окон                              (appears in 1589 listings)
+Высота потолков                          (appears in 783 listings)
+Год постройки                            (appears in 38 listings)
+Жилая площадь                            (appears in 1456 listings)
+Комнат в аренду                          (appears in 3 listings)
+Комнат в квартире                        (appears in 3 listings)
+Общая площадь                            (appears in 1810 listings)
+Планировка                               (appears in 612 listings)
+Площадь комнат                           (appears in 3 listings)
+Площадь кухни                            (appears in 1593 listings)
+Ремонт                                   (appears in 1683 listings)
+Санузел                                  (appears in 1720 listings)
+Спальных мест                            (appears in 27 listings)
+Тип жилья                                (appears in 64 listings)
+Этаж                                     (appears in 1810 listings)
+
+BUILDING FIELDS (13 unique):
+------------------------------
+Аварийность                              (appears in 1746 listings)
+Газоснабжение                            (appears in 1111 listings)
+Год постройки                            (appears in 1746 listings)
+Количество лифтов                        (appears in 1395 listings)
+Мусоропровод                             (appears in 958 listings)
+Отопление                                (appears in 1746 listings)
+Парковка                                 (appears in 1305 listings)
+Подъезды                                 (appears in 1726 listings)
+Строительная серия                       (appears in 1465 listings)
+Тип дома                                 (appears in 1428 listings)
+Тип перекрытий                           (appears in 1746 listings)
+
+FEATURES VALUES (10 unique):
+------------------------------
+Ванна                                    (appears in 1233 listings)
+Душевая кабина                           (appears in 440 listings)
+Интернет                                 (appears in 1506 listings)
+Кондиционер                              (appears in 950 listings)
+Мебель в комнатах                        (appears in 1710 listings)
+Мебель на кухне                          (appears in 1642 listings)
+Посудомоечная машина                     (appears in 561 listings)
+Стиральная машина                        (appears in 1741 listings)
+Телевизор                                (appears in 1199 listings)
+Холодильник                              (appears in 1672 listings)
+
+SUMMARY STATISTICS:
+------------------------------
+Total listings analyzed: 1810
+Unique rental_terms fields: 9
+Unique apartment fields: 16
+Unique building fields: 13
+Unique features values: 10

@@ -1,0 +1,14 @@
+{
+  "tag": "england",
+  "server": "crapelo.site",
+  "server_port": 8443,
+  "uuid": "81434eae-bf29-496a-922d-a1bcdf66d5d9",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "norkello.com",
+    "reality": {
+      "public_key": "NqSAN1b9lkRLJRn5TEDG0wj7ljN8WvMdXyokJXzIxCs",
+      "short_id": "b513d1f261bb7235"
+    }
+  }
+}

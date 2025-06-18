@@ -1,0 +1,14 @@
+{
+  "tag": "spain",
+  "server": "velsanto.online",
+  "server_port": 8443,
+  "uuid": "6369d644-3a7b-45cf-b321-7958003a9a7f",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "velsanto.com",
+    "reality": {
+      "public_key": "zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg",
+      "short_id": "48fccabc158a4c22"
+    }
+  }
+}

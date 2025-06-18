@@ -1,0 +1,14 @@
+{
+  "tag": "france",
+  "server": "lupivera.site",
+  "server_port": 8443,
+  "uuid": "c8cc3b7b-9496-4e85-b02d-e5e87dafdbc1",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "lupivera.com",
+    "reality": {
+      "public_key": "JJtWBWNNdTXyoUjAEUj4TmLobXhWeov6gN49GbbwXmA",
+      "short_id": "0ce3b64234990ead"
+    }
+  }
+}

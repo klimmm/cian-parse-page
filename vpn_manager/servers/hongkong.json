@@ -1,0 +1,14 @@
+{
+  "tag": "hongkong",
+  "server": "merlinty.site",
+  "server_port": 8443,
+  "uuid": "a7851900-6ddb-406d-9f20-bbe6159d06d6",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "merlinty.com",
+    "reality": {
+      "public_key": "uWB8HfNVK_-9KtjDGjmBovnYxTh6wN95APRUBmCC30M",
+      "short_id": "9925643a6fad995c"
+    }
+  }
+}

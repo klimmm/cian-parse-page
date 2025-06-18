@@ -1,0 +1,1873 @@
+SEARCH MERGE ANALYSIS - 2025-06-18 08:42:35
+==================================================
+
+VALIDATION VERSION: 2.0 (with actual change detection)
+
+Existing data: 1870 total
+Source data: 367 total
+Merged data: 1870 total
+Overlapping offers: 367
+Found 10 offers with changes
+Selected for detailed analysis: ['318832375', '318826908', '318825907']
+
+
+SUMMARY OF ALL CHANGES
+--------------------
+
+DETAILED CHANGES BY OFFER
+------------------------------
+
+Offer 318826908 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318826908'
+
+Offer 318672453 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 5-й Донской проезд, 21К12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-5y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318672453'
+
+Offer 318497889 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Новопресненский пер., 7С2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2516168763-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318497889'
+
+Offer 228166483 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Ефремова, 20'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/7/851/788/kvartira-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/228166483'
+
+Offer 318392084 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Серпуховская ул., 34К4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2512981862-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318392084'
+
+Offer 318297042 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Серпуховский Вал, 26'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318297042'
+
+Offer 318503541 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 6К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-beg...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318503541'
+
+Offer 318633201 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Стрельбищенский пер., 19'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-str...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318633201'
+
+Offer 317061543 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Дунаевского, 4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2475612699-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317061543'
+
+Offer 309885320 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Донская ул., 8'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-don...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/309885320'
+
+Offer 318205878 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Студенческая ул., 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-stu...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318205878'
+
+Offer 318382538 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Стрельбищенский пер., 22А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-str...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318382538'
+
+Offer 318564349 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Климашкина, 21'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318564349'
+
+Offer 286013828 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Рощинская ул., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/19/490/661/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/286013828'
+
+Offer 317437844 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 41/2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317437844'
+
+Offer 317624379 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Малая Тульская ул., 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mal...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317624379'
+
+Offer 318602485 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Грузинская ул., 36АС5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318602485'
+
+Offer 274670708 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Климашкина, 9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/61/163/231/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/274670708'
+
+Offer 317283603 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 21/10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kom...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317283603'
+
+Offer 316512707 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Мосфильмовская ул., 2В'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mos...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316512707'
+
+Offer 314391529 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Киевская ул., 28/44'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2446372092-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/314391529'
+
+Offer 308782939 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Дорогомиловская ул., 11'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/308782939'
+
+Offer 318592895 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Литвина-Седого, 2/13кАс3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2519463975-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318592895'
+
+Offer 275788467 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Киевская ул., 22'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/93/280/431/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/275788467'
+
+Offer 316266894 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 29'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2454334395-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316266894'
+
+Offer 317263922 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Гагаринский пер., 19/3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-gag...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317263922'
+
+Offer 318810908 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 8К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318810908'
+
+Offer 318017705 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Серпуховский Вал, 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318017705'
+
+Offer 317788303 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 26'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317788303'
+
+Offer 318806255 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Дружинниковская ул., 13'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-dru...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318806255'
+
+Offer 295252797 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 1-й Вражский пер., 4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-1y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/295252797'
+
+Offer 316972468 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Сетуньский проезд, 11'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316972468'
+
+Offer 282150321 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Рощинская ул., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/69/228/641/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/282150321'
+
+Offer 318235777 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пырьева, 11А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318235777'
+
+Offer 315778004 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Зоологическая ул., 3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-zoo...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/315778004'
+
+Offer 318832375 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 30'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kut...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318832375'
+
+Offer 268093982 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Красная Пресня, 23С1А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/268093982'
+
+Offer 318473825 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318473825'
+
+Offer 318102564 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Шаболовка, 16К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318102564'
+
+Offer 318685604 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 41'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2522569184-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318685604'
+
+Offer 318180103 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Бережковская наб., 8'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2506798044-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318180103'
+
+Offer 271138193 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большой Афанасьевский пер., 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/271138193'
+
+Offer 247360637 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 4-й Верхний Михайловский проезд, 10К5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-4y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/247360637'
+
+Offer 318217252 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 5-й Донской проезд, 21К12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-5y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318217252'
+
+Offer 313966592 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2407774330-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/313966592'
+
+Offer 300230904 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/300230904'
+
+Offer 302859320 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, наб. Тараса Шевченко, 3К3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-nab...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/302859320'
+
+Offer 318639288 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Малая Грузинская, 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318639288'
+
+Offer 316285931 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 24'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kut...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316285931'
+
+Offer 318666464 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318666464'
+
+Offer 318300689 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Новинский бул., 15'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2510531122-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318300689'
+
+Offer 316217481 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Малая Пироговская ул., 6/4к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mal...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316217481'
+
+Offer 318070059 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Льва Толстого, 7'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318070059'
+
+Offer 307209504 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Сергея Макеева, 1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/307209504'
+
+Offer 318396744 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Ферсмана, 5К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2513099056-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318396744'
+
+Offer 309522223 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 23С1'
+  image_urls: 'NOT_PRESENT' → '[]'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/309522223'
+
+Offer 317361303 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Брестская ул., 31'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317361303'
+
+Offer 318747521 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Грузинская ул., 42'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318747521'
+
+Offer 317711788 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Тульская ул., 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317711788'
+
+Offer 292869732 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 4-й Верхний Михайловский проезд, 1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2196832855-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/292869732'
+
+Offer 318379812 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Несвижский пер., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-nes...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318379812'
+
+Offer 318232146 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Подвойского, 20'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318232146'
+
+Offer 317850552 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Черногрязская ул., 5К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317850552'
+
+Offer 318208404 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. 1905 года, 19'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2507754561-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318208404'
+
+Offer 311691987 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 5-й Рощинский проезд, 7/8'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-5y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/311691987'
+
+Offer 316958224 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 4-й Рощинский проезд, 8К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-4y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316958224'
+
+Offer 318414409 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Шаболовка, 17'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318414409'
+
+Offer 318718352 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Трехгорный Вал, 18'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318718352'
+
+Offer 318554866 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Поликарпова, 8'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2523968913-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318554866'
+
+Offer 318455582 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-beg...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318455582'
+
+Offer 318610813 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 4-й Верхний Михайловский проезд, 1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-4y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318610813'
+
+Offer 318200707 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Рощинская ул., 11'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318200707'
+
+Offer 318678378 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Дорогомиловская ул., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318678378'
+
+Offer 294112205 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 14к2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/294112205'
+
+Offer 318549813 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 16'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318549813'
+
+Offer 318701330 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Дорогомиловская ул., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318701330'
+
+Offer 310969092 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/310969092'
+
+Offer 317709763 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Добрынинский пер., 5/9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2494505305-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317709763'
+
+Offer 318569232 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Новый Арбат, 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2518648497-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318569232'
+
+Offer 311531170 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Сергея Макеева, 1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/311531170'
+
+Offer 162991899 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пудовкина, 17'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/7/660/003/kvartira-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/162991899'
+
+Offer 293861561 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 30'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kut...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/293861561'
+
+Offer 318501123 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 26К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kut...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318501123'
+
+Offer 318813024 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 17А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318813024'
+
+Offer 317568092 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Серпуховский Вал, 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2510445882-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317568092'
+
+Offer 317942229 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Дружинниковская ул., 11А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-dru...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317942229'
+
+Offer 318672759 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 4-й Верхний Михайловский проезд, 10К5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-4y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318672759'
+
+Offer 318812392 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Донской проезд, 6к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318812392'
+
+Offer 315044495 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Смоленская ул., 7'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-smo...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/315044495'
+
+Offer 318666541 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318666541'
+
+Offer 318444392 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Серпуховская ул., 34К4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2514623234-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318444392'
+
+Offer 306133670 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 43'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/306133670'
+
+Offer 318752382 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Несвижский пер., 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-nes...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318752382'
+
+Offer 318666361 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Черногрязская ул., 3С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318666361'
+
+Offer 318711967 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 1-й Хорошевский проезд, 10К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-1y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318711967'
+
+Offer 318768008 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Губкина, 9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318768008'
+
+Offer 318737358 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Студенческая ул., 44/28'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-stu...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318737358'
+
+Offer 298970024 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 1-я Фрунзенская ул., 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-1ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/298970024'
+
+Offer 318097100 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Валовая ул., 21К125'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-val...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318097100'
+
+Offer 309244973 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Красина, 19С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/309244973'
+
+Offer 278412316 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 43К10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/03/322/831/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/278412316'
+
+Offer 284652054 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 19'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kom...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/284652054'
+
+Offer 318233556 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Студенческая ул., 44/28'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2508522303-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318233556'
+
+Offer 317560389 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Столярный пер., 18'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-sto...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317560389'
+
+Offer 318782968 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Рощинская ул., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318782968'
+
+Offer 318331905 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, просп. 60-летия Октября, 3К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-pro...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318331905'
+
+Offer 313038215 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Большая Якиманка, 32'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/313038215'
+
+Offer 309276889 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Мантулинская ул., 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-man...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/309276889'
+
+Offer 318209597 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Красная Пресня, 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318209597'
+
+Offer 198588054 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Стремянный пер., 35'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-str...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/198588054'
+
+Offer 199516018 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Черногрязская ул., 5К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/199516018'
+
+Offer 318664249 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 18К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-beg...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318664249'
+
+Offer 318572699 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большой Гнездниковский пер., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318572699'
+
+Offer 318711769 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 6К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-beg...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318711769'
+
+Offer 318235072 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Черногрязская ул., 5К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318235072'
+
+Offer 318105821 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318105821'
+
+Offer 318290787 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ходынская ул., 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hod...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318290787'
+
+Offer 318711607 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 17'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318711607'
+
+Offer 313122251 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 3-я Фрунзенская ул., 9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-3ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/313122251'
+
+Offer 318664486 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пырьева, 26К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318664486'
+
+Offer 318298573 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Новинский бул., 13'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-nov...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318298573'
+
+Offer 269311984 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Васильевская ул., 3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/95/497/121/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/269311984'
+
+Offer 317802028 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 6К3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2497619713-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317802028'
+
+Offer 317006292 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Донской проезд, 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317006292'
+
+Offer 256363850 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Спасоналивковский пер., 16'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/256363850'
+
+Offer 314886750 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Хамовнический Вал, 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2426995020-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/314886750'
+
+Offer 217352543 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 3-я Фрунзенская ул., 14/37'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/3/645/897/kvartira-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/217352543'
+
+Offer 310433451 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 24'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kut...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/310433451'
+
+Offer 307325251 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Красина, 17'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/307325251'
+
+Offer 318322372 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Донской проезд, 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318322372'
+
+Offer 317942186 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пырьева, 16'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317942186'
+
+Offer 318448793 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Сергея Макеева, 1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318448793'
+
+Offer 317912758 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Мантулинская ул., 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2499616161-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317912758'
+
+Offer 316929548 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 6К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-beg...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316929548'
+
+Offer 318679595 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Духовской пер., 22А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-duh...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318679595'
+
+Offer 318337320 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Малая Грузинская, 38'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2511538324-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318337320'
+
+Offer 279286265 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пырьева, 5К2Б'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/279286265'
+
+Offer 318722295 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Грузинский пер., 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-gru...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318722295'
+
+Offer 311536921 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Спасоналивковский пер., 16'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/311536921'
+
+Offer 317867534 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 17'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kut...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317867534'
+
+Offer 315827935 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, пер. Волков, 17'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-per...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/315827935'
+
+Offer 318111784 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Грузинский Вал, 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318111784'
+
+Offer 318615509 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 3-я Фрунзенская ул., 15'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-3ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318615509'
+
+Offer 284560171 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Дорогомиловская ул., 11'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/93/017/551/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/284560171'
+
+Offer 212006998 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Трехгорный Вал, 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/212006998'
+
+Offer 316388679 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Добрынинский пер., 5/9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316388679'
+
+Offer 188140250 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Дружинниковская ул., 13'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/0/385/405/kvartira-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/188140250'
+
+Offer 317354466 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Университетский просп., 9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uni...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317354466'
+
+Offer 302491339 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ружейный пер., 4С3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-ruz...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/302491339'
+
+Offer 318641110 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 28С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318641110'
+
+Offer 317855131 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Заморенова, 41'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317855131'
+
+Offer 318343480 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 15'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318343480'
+
+Offer 300788716 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Шмитовский проезд, 13'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-shm...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/300788716'
+
+Offer 318772359 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хавская ул., 1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hav...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318772359'
+
+Offer 317310958 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 23К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kut...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317310958'
+
+Offer 318017850 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Декабрьская ул., 4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318017850'
+
+Offer 318823041 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Люсиновская ул., 72'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-lyu...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318823041'
+
+Offer 318764190 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Мантулинская ул., 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-man...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318764190'
+
+Offer 318051891 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Хамовнический Вал, 38'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318051891'
+
+Offer 317665505 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317665505'
+
+Offer 314901434 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Ферсмана, 5К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/314901434'
+
+Offer 318368563 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318368563'
+
+Offer 313976180 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Мосфильмовский пер., 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/313976180'
+
+Offer 317245988 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Льва Толстого, 7'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317245988'
+
+Offer 318592776 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2519461624-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318592776'
+
+Offer 317085960 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 19'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317085960'
+
+Offer 315309328 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Звенигородское ш., 3АС1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-zve...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/315309328'
+
+Offer 317582039 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Большая Якиманка, 32'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2515129714-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317582039'
+
+Offer 318747163 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Стрельбищенский пер., 22А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-str...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318747163'
+
+Offer 278965762 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большой Тишинский пер., 43'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/65/043/931/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/278965762'
+
+Offer 318450859 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Поликарпова, 11'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318450859'
+
+Offer 317650515 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Грузинская ул., 62'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317650515'
+
+Offer 318430178 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Рочдельская ул., 26/28С4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-roc...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318430178'
+
+Offer 317730588 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317730588'
+
+Offer 318504893 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Павла Андреева, 4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318504893'
+
+Offer 318812360 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 27С5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kom...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318812360'
+
+Offer 317551127 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Рощинская ул., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317551127'
+
+Offer 318010679 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Серпуховский Вал, 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318010679'
+
+Offer 317857928 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большой Тишинский пер., 43'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2498234233-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317857928'
+
+Offer 318681403 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Льва Толстого, 7'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318681403'
+
+Offer 318467822 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Даниловский Вал, 1А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318467822'
+
+Offer 318322187 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 39/1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318322187'
+
+Offer 310350948 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пырьева, 11А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/310350948'
+
+Offer 318665594 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Стрельбищенский пер., 21'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-str...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318665594'
+
+Offer 318781423 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Люсиновская ул., 37'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-lyu...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318781423'
+
+Offer 318755473 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Плющиха, 42'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2525315524-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318755473'
+
+Offer 311425923 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Литвина-Седого, 2/13кВс1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/311425923'
+
+Offer 224186630 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Орджоникидзе, 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/224186630'
+
+Offer 318489409 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 36'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318489409'
+
+Offer 318716423 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Грузинский пер., 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-gru...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318716423'
+
+Offer 318451166 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Стрельбищенский пер., 23А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-str...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318451166'
+
+Offer 318014644 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Малая Пироговская ул., 23'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mal...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318014644'
+
+Offer 318721463 (6 changes):
+  offer_price: '90000' → '89900'
+  geo.address_items: '[{'text': 'Москва', 'id': None}, {'text': 'ЦАО', 'id': ...' → '[{'text': 'Москва', 'id': '1'}, {'text': 'ЦАО', 'id': '...'
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Малая Грузинская, 38'
+  price_changes: '[{'change': '100', 'current_price': '90000', 'previous_...' → '[{'change': '100', 'current_price': '90000', 'previous_...'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318721463'
+
+Offer 318746330 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Павла Андреева, 4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2525022391-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318746330'
+
+Offer 313141760 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Рощинская ул., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/313141760'
+
+Offer 318388314 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Павла Андреева, 7'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2515051062-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318388314'
+
+Offer 318731553 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Грузинский пер., 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-gru...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318731553'
+
+Offer 318294016 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 8К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318294016'
+
+Offer 318435787 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Серпуховский Вал, 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318435787'
+
+Offer 318813049 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Косыгина, 13'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318813049'
+
+Offer 311949280 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Красина, 7С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/311949280'
+
+Offer 314689260 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Мытная ул., 27'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-myt...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/314689260'
+
+Offer 225997174 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. 1905 года, 15'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/225997174'
+
+Offer 318651973 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Малая Тульская ул., 2/1К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2521176155-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318651973'
+
+Offer 318193341 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Серпуховская ул., 34К5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318193341'
+
+Offer 318500895 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Трехгорный Вал, 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318500895'
+
+Offer 318316892 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, просп. 60-летия Октября, 3К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-pro...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318316892'
+
+Offer 318409028 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Сетуньский проезд, 19'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318409028'
+
+Offer 318504787 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Шухова, 18'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2516447797-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318504787'
+
+Offer 318299994 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Большая Якиманка, 32'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318299994'
+
+Offer 318434304 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Серпуховский Вал, 18/28'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318434304'
+
+Offer 318697399 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Духовской пер., 12А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-duh...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318697399'
+
+Offer 318720856 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ходынская ул., 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hod...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318720856'
+
+Offer 307458929 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, пер. Волков, 9С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-per...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/307458929'
+
+Offer 304317373 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 22'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kut...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/304317373'
+
+Offer 317726030 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Шухова, 13К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317726030'
+
+Offer 318159613 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 29'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kom...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318159613'
+
+Offer 315937890 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Духовской пер., 12А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-duh...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/315937890'
+
+Offer 317069917 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Мосфильмовская ул., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mos...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317069917'
+
+Offer 318648688 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 14к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318648688'
+
+Offer 318704183 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хавская ул., 1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hav...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318704183'
+
+Offer 318569078 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Серпуховская ул., 34К5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318569078'
+
+Offer 200935332 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большой Гнездниковский пер., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/43/830/721/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/200935332'
+
+Offer 318526482 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Тульская ул., 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318526482'
+
+Offer 314452113 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Малый Тишинский пер., 19'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2422475199-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/314452113'
+
+Offer 318013764 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Дорогомиловская ул., 14К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2502509876-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318013764'
+
+Offer 318825134 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Оболенский пер., 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-obo...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318825134'
+
+Offer 318755000 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 40'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318755000'
+
+Offer 247921635 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Мосфильмовский пер., 4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/247921635'
+
+Offer 281720119 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/49/799/541/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/281720119'
+
+Offer 314370485 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Мосфильмовская ул., 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mos...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/314370485'
+
+Offer 307874915 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 30'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kom...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/307874915'
+
+Offer 290853174 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большой Кондратьевский пер., 8С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/290853174'
+
+Offer 318730849 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Шаболовка, 29К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318730849'
+
+Offer 309775532 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Малый Николопесковский пер., 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mal...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/309775532'
+
+Offer 309496543 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 5-й Рощинский проезд, 7/8'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-5y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/309496543'
+
+Offer 318368846 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пудовкина, 6К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318368846'
+
+Offer 318733350 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Донской проезд, 6к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318733350'
+
+Offer 300395918 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большой Саввинский пер., 3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/300395918'
+
+Offer 318564787 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 6К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-beg...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318564787'
+
+Offer 312488327 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Красина, 7С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2453329157-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/312488327'
+
+Offer 317474208 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 41/2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317474208'
+
+Offer 318461541 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. 1905 года, 25'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318461541'
+
+Offer 318382312 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пырьева, 9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318382312'
+
+Offer 318287936 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Малая Пироговская ул., 6/4к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mal...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318287936'
+
+Offer 313730866 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Несвижский пер., 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-nes...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/313730866'
+
+Offer 318786359 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Мосфильмовская ул., 18'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mos...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318786359'
+
+Offer 278592481 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Серпуховский Вал, 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/278592481'
+
+Offer 272021916 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Духовской пер., 19'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/78/561/721/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/272021916'
+
+Offer 318791871 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Грузинский пер., 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-gru...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318791871'
+
+Offer 318265094 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Климашкина, 9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318265094'
+
+Offer 318799255 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Большая Полянка, 28к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318799255'
+
+Offer 318755635 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Льва Толстого, 7'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2525322595-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318755635'
+
+Offer 306869299 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 40'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kom...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/306869299'
+
+Offer 298683401 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/298683401'
+
+Offer 318010040 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Черногрязская ул., 5К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318010040'
+
+Offer 249471661 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Косыгина, 11'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/249471661'
+
+Offer 318673876 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Духовской пер., 12А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-duh...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318673876'
+
+Offer 318427713 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2513969802-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318427713'
+
+Offer 318783132 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 17'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kom...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318783132'
+
+Offer 318696371 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 23К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2522837874-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318696371'
+
+Offer 316172596 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, просп. 60-летия Октября, 3К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-pro...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316172596'
+
+Offer 318499931 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Несвижский пер., 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2516233207-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318499931'
+
+Offer 309516701 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пырьева, 4К3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/309516701'
+
+Offer 318318021 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 18К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2511046673-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318318021'
+
+Offer 318522440 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 40'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318522440'
+
+Offer 310946445 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Косыгина, 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/komnata-moskva-ulic...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/310946445'
+
+Offer 269037914 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Поликарпова, 8'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/269037914'
+
+Offer 306895840 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Шаболовка, 32'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/306895840'
+
+Offer 318029480 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Дорогомиловская ул., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318029480'
+
+Offer 318676412 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Люсиновская ул., 72'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-lyu...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318676412'
+
+Offer 317499539 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Даниловский Вал, 1А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317499539'
+
+Offer 318442908 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Малая Грузинская, 29'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318442908'
+
+Offer 310302235 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пырьева, 26К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2330629437-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/310302235'
+
+Offer 318193039 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318193039'
+
+Offer 317857802 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пудовкина, 17'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317857802'
+
+Offer 314676517 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 11'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kom...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/314676517'
+
+Offer 316548346 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Грузинская ул., 22'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316548346'
+
+Offer 318733762 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Малый Кисловский пер., 9С3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mal...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318733762'
+
+Offer 316872497 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Рощинская ул., 10'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316872497'
+
+Offer 309115280 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/309115280'
+
+Offer 290000475 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Зоологическая ул., 12К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-zoo...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/290000475'
+
+Offer 317343566 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 28С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317343566'
+
+Offer 318406381 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 4-й Верхний Михайловский проезд, 10К3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-4y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318406381'
+
+Offer 299971115 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Большая Полянка, 28к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/299971115'
+
+Offer 317627894 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 32'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317627894'
+
+Offer 272600208 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Усачева, 19АК2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/09/081/821/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/272600208'
+
+Offer 314011077 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ружейный пер., 4С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-ruz...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/314011077'
+
+Offer 318172798 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 39с1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318172798'
+
+Offer 318681620 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Зацепа, 22'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318681620'
+
+Offer 312831527 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Декабрьская ул., 4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/312831527'
+
+Offer 213658737 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 35К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/7/219/527/kvartira-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/213658737'
+
+Offer 317184977 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Черногрязская ул., 5К1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317184977'
+
+Offer 318316569 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Серпуховская ул., 34К4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318316569'
+
+Offer 318202457 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Хорошевское ш., 12к1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-hor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318202457'
+
+Offer 317139084 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 40'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317139084'
+
+Offer 318795185 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Подвойского, 20'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2526881452-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318795185'
+
+Offer 318750493 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 17А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318750493'
+
+Offer 317132235 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 24'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2477798910-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317132235'
+
+Offer 317141113 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, пер. Капранова, 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2478076241-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317141113'
+
+Offer 317919248 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Грузинская ул., 16'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317919248'
+
+Offer 297900864 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 5-й Донской проезд, 21К8'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-5y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/297900864'
+
+Offer 284440048 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Бережковская наб., 4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/36/757/451/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/284440048'
+
+Offer 318450890 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Поликарпова, 11'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318450890'
+
+Offer 318146403 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. 1905 года, 19'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318146403'
+
+Offer 240074630 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговой проезд, 9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/5/388/349/kvartira-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/240074630'
+
+Offer 318784242 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Косыгина, 13'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318784242'
+
+Offer 318672836 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Подвойского, 26'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2521997675-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318672836'
+
+Offer 318566123 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Стасовой, 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2518467389-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318566123'
+
+Offer 318089969 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Павла Андреева, 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318089969'
+
+Offer 307274338 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 44'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/307274338'
+
+Offer 318080252 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Красина, 17'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318080252'
+
+Offer 318731027 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 17А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318731027'
+
+Offer 318367528 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Люсиновская ул., 53'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-lyu...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318367528'
+
+Offer 316741184 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Стасовой, 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316741184'
+
+Offer 318402108 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Малая Грузинская, 41'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318402108'
+
+Offer 318457853 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Серпуховская ул., 62'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318457853'
+
+Offer 318781477 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Стрельбищенский пер., 27'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2526186285-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318781477'
+
+Offer 317467774 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 43'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317467774'
+
+Offer 312575253 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Красная Пресня, 28С2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/312575253'
+
+Offer 318302392 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Грузинская ул., 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318302392'
+
+Offer 318522170 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Ферсмана, 11К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318522170'
+
+Offer 318816949 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Университетский просп., 9'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uni...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318816949'
+
+Offer 270935029 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 34/1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/270935029'
+
+Offer 310206628 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пресненский Вал, 19'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/310206628'
+
+Offer 318461846 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большой Кондратьевский пер., 12С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318461846'
+
+Offer 298732542 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Фотиевой, 7'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/298732542'
+
+Offer 318694648 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Красная Пресня, 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318694648'
+
+Offer 318758493 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 27С5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kom...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318758493'
+
+Offer 311528816 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Красина, 7С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/311528816'
+
+Offer 317621865 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Ефремова, 22'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317621865'
+
+Offer 318485732 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 14'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-beg...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318485732'
+
+Offer 317557121 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Городская ул., 4'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-gor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317557121'
+
+Offer 287956744 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Трехгорный Вал, 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/287956744'
+
+Offer 318585548 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. 1905 года, 19'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2519280441-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318585548'
+
+Offer 318700441 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Комсомольский просп., 27С5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kom...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318700441'
+
+Offer 245689151 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Ленинский просп., 44'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-len...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/245689151'
+
+Offer 318381038 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, пер. Капранова, 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2512682681-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318381038'
+
+Offer 317150259 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Мантулинская ул., 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-man...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317150259'
+
+Offer 257737265 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Брянская ул., 12'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/24/739/011/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/257737265'
+
+Offer 272195394 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Малая Тульская ул., 8'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-mal...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/272195394'
+
+Offer 317218289 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Духовской пер., 16'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-duh...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317218289'
+
+Offer 318811914 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Вавилова, 17А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318811914'
+
+Offer 301556788 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большая Тульская ул., 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/301556788'
+
+Offer 310663924 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Кутузовский просп., 24'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-kut...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/310663924'
+
+Offer 318653666 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большой Кондратьевский пер., 6'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318653666'
+
+Offer 318479563 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Резервный проезд, 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2516238506-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318479563'
+
+Offer 304876815 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Мытная ул., 23'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-myt...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/304876815'
+
+Offer 280034380 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пырьева, 18'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/58/505/141/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/280034380'
+
+Offer 317909496 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-й Верхний Михайловский проезд, 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/317909496'
+
+Offer 318735819 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Новый Арбат, 26'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318735819'
+
+Offer 318606675 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Усачева, 19АК2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318606675'
+
+Offer 318718293 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 3-я Рощинская ул., 5'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-3ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318718293'
+
+Offer 318451327 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Стрельбищенский пер., 23А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-str...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318451327'
+
+Offer 318075617 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Большой Саввинский пер., 10С1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-bol...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318075617'
+
+Offer 286147789 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Лестева, 19К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/30/929/661/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/286147789'
+
+Offer 236200250 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Стрельбищенский пер., 25А'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/7/810/319/kvartira-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/236200250'
+
+Offer 318201555 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Украинский бул., 3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/2507539998-1.jpg', ...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318201555'
+
+Offer 265685875 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Столярный пер., 18'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/36/639/611/kvartira...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/265685875'
+
+Offer 318825907 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Серпуховский Вал, 26'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318825907'
+
+Offer 307759366 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Саввинская наб., 3'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-sav...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/307759366'
+
+Offer 318806774 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 5-й Донской проезд, 21К13'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-5y-...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/318806774'
+
+Offer 316720972 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, 2-я Черногрязская ул., 7К2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-2ya...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316720972'
+
+Offer 311267984 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, ул. Пудовкина, 17'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-uli...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/311267984'
+
+Offer 316979456 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Городская ул., 1'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-gor...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/316979456'
+
+Offer 306694991 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Беговая ул., 2'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-beg...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/306694991'
+
+Offer 312250093 (3 changes):
+  geo.full_address: 'NOT_PRESENT' → 'Москва, Духовской пер., 20кБ'
+  image_urls: 'NOT_PRESENT' → '['https://images.cdn-cian.ru/images/kvartira-moskva-duh...'
+  url: 'NOT_PRESENT' → 'https://www.cian.ru/rent/flat/312250093'
+Total offers with changes: 367 out of 367
+Total field changes detected: 1104
+
+Field change breakdown:
+  geo.full_address: 367 changes
+  image_urls: 367 changes
+  url: 367 changes
+  offer_price: 1 changes
+  geo.address_items: 1 changes
+  price_changes: 1 changes
+
+Most frequently changed fields:
+  geo.full_address: 367 changes (100.0% of offers)
+  image_urls: 367 changes (100.0% of offers)
+  url: 367 changes (100.0% of offers)
+  offer_price: 1 changes (0.3% of offers)
+  geo.address_items: 1 changes (0.3% of offers)

@@ -1,0 +1,6602 @@
+[
+  {
+    "offer_id": "247921635",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "52000",
+        "previous_price": "54000.0",
+        "date": "2025-06-09 14:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317664796",
+    "price_changes": [
+      {
+        "change": "-6500.0",
+        "current_price": "82000",
+        "previous_price": "88500.0",
+        "date": "2025-05-29 22:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "307359742",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "83000",
+        "previous_price": "78000.0",
+        "date": "2025-03-17 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "277750449",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-31 07:34:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318156517",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "75000",
+        "previous_price": "77000.0",
+        "date": "2025-06-09 18:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318473825",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "98000",
+        "previous_price": "101000.0",
+        "date": "2025-06-09 09:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315904837",
+    "price_changes": [
+      {
+        "change": "1000.0",
+        "current_price": "50000",
+        "previous_price": "49000.0",
+        "date": "2025-04-21 16:56:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "308613364",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "65000",
+        "previous_price": "68000.0",
+        "date": "2025-06-03 16:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "308078908",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "65000",
+        "previous_price": "63000.0",
+        "date": "2025-04-10 23:35:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316887595",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-05-18 18:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317057894",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-20 12:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315283350",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "99000",
+        "previous_price": "89000.0",
+        "date": "2025-04-03 16:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316798855",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-11 15:41:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "307772076",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "80000",
+        "previous_price": "70000.0",
+        "date": "2025-04-29 12:17:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317672261",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "48999",
+        "previous_price": "49999.0",
+        "date": "2025-05-30 11:07:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317236995",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "72000",
+        "previous_price": "77000.0",
+        "date": "2025-06-04 15:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317981346",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "78000",
+        "previous_price": "80000.0",
+        "date": "2025-06-05 12:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "272160985",
+    "price_changes": [
+      {
+        "change": "23000.0",
+        "current_price": "82000",
+        "previous_price": "59000.0",
+        "date": "2025-04-05 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316814341",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-05-20 13:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313600748",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-03-12 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318271002",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "82000",
+        "previous_price": "84000.0",
+        "date": "2025-06-06 12:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316461510",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-25 20:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316504751",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-24 08:22:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315254874",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "67000",
+        "previous_price": "65000.0",
+        "date": "2025-05-03 11:50:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "312831527",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-05-15 14:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "309292547",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "73000",
+        "previous_price": "71000.0",
+        "date": "2025-04-25 13:38:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "284652054",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "68000",
+        "previous_price": "71000.0",
+        "date": "2025-06-06 10:54:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "307633854",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-07 18:35:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315905314",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-04-10 13:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317636183",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-05-18 19:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316594997",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "80000",
+        "previous_price": "83000.0",
+        "date": "2025-06-02 11:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315006192",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-03-31 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318355458",
+    "price_changes": [
+      {
+        "change": "1100.0",
+        "current_price": "39800",
+        "previous_price": "38700.0",
+        "date": "2025-06-05 14:30:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316942588",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "80000",
+        "previous_price": "90000.0",
+        "date": "2025-05-15 17:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316408108",
+    "price_changes": [
+      {
+        "change": "7000.0",
+        "current_price": "90000",
+        "previous_price": "83000.0",
+        "date": "2025-04-24 16:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316325921",
+    "price_changes": [
+      {
+        "change": "-8000.0",
+        "current_price": "80000",
+        "previous_price": "88000.0",
+        "date": "2025-05-12 15:04:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316395123",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "90000",
+        "previous_price": "80000.0",
+        "date": "2025-04-28 14:48:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318319941",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-06-06 11:36:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316846716",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "65000",
+        "previous_price": "60000.0",
+        "date": "2025-04-28 13:38:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316878657",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "90000",
+        "previous_price": "100000.0",
+        "date": "2025-05-20 20:43:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316085766",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-04-23 00:50:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317991046",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-06-04 12:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316082829",
+    "price_changes": [
+      {
+        "change": "15000.0",
+        "current_price": "85000",
+        "previous_price": "70000.0",
+        "date": "2025-04-09 18:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314767178",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-04-03 10:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318370704",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "53000",
+        "previous_price": "54000.0",
+        "date": "2025-06-05 15:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314972514",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "75000",
+        "previous_price": "73000.0",
+        "date": "2025-03-20 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317069917",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-06-04 10:34:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316851709",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-05-04 12:27:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "164041672",
+    "price_changes": [
+      {
+        "change": "8000.0",
+        "current_price": "90000",
+        "previous_price": "82000.0",
+        "date": "2025-05-30 12:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "222723163",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-17 21:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "287557853",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "73000",
+        "previous_price": "75000.0",
+        "date": "2025-05-23 22:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316328947",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-28 12:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315870074",
+    "price_changes": [
+      {
+        "change": "9900.0",
+        "current_price": "80000",
+        "previous_price": "70100.0",
+        "date": "2025-04-28 14:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317196963",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "70000",
+        "previous_price": "72000.0",
+        "date": "2025-05-12 14:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316995323",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "75000",
+        "previous_price": "65000.0",
+        "date": "2025-05-01 07:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "268225357",
+    "price_changes": [
+      {
+        "change": "-8000.0",
+        "current_price": "60000",
+        "previous_price": "68000.0",
+        "date": "2025-05-28 12:59:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316540281",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "110000",
+        "previous_price": "108000.0",
+        "date": "2025-04-21 13:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318202970",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "80000",
+        "previous_price": "83000.0",
+        "date": "2025-06-06 14:16:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314945210",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-03-19 13:01:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316283255",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-17 13:57:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "311374927",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-05-15 13:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "277261869",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-13 22:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315977648",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-04-29 11:36:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316015200",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-04-25 17:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317061611",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-05-20 20:38:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315417671",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "92000",
+        "previous_price": "95000.0",
+        "date": "2025-06-03 21:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315778004",
+    "price_changes": [
+      {
+        "change": "14000.0",
+        "current_price": "69000",
+        "previous_price": "55000.0",
+        "date": "2025-04-29 13:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317294099",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-05-31 11:16:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316015907",
+    "price_changes": [
+      {
+        "change": "20000.0",
+        "current_price": "70000",
+        "previous_price": "50000.0",
+        "date": "2025-05-02 13:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318301420",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-06-05 20:43:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317965020",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "90000",
+        "previous_price": "91000.0",
+        "date": "2025-06-06 11:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316508774",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-05-19 16:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317023752",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-05-01 17:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317437844",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "90000",
+        "previous_price": "93000.0",
+        "date": "2025-05-20 07:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317459369",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-17 16:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316752831",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "89900",
+        "previous_price": "94900.0",
+        "date": "2025-05-24 12:07:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315056181",
+    "price_changes": [
+      {
+        "change": "-2100.0",
+        "current_price": "86300",
+        "previous_price": "88400.0",
+        "date": "2025-05-19 19:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318443719",
+    "price_changes": [
+      {
+        "change": "-20000.0",
+        "current_price": "140000",
+        "previous_price": "160000.0",
+        "date": "2025-06-06 10:43:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315876270",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "80000",
+        "previous_price": "78000.0",
+        "date": "2025-04-08 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317857928",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-29 13:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317693599",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "100000",
+        "previous_price": "90000.0",
+        "date": "2025-05-24 13:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "301405099",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "68000",
+        "previous_price": "72000.0",
+        "date": "2025-05-13 20:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "201291279",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-31 12:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314892346",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "90000",
+        "previous_price": "88000.0",
+        "date": "2025-04-26 23:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "309703283",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "60000",
+        "previous_price": "55000.0",
+        "date": "2025-04-30 17:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "309775532",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "75000",
+        "previous_price": "72000.0",
+        "date": "2025-05-24 13:57:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317499539",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-06-11 07:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315607887",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "80000",
+        "previous_price": "77000.0",
+        "date": "2025-04-07 09:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316929548",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "75000",
+        "previous_price": "72000.0",
+        "date": "2025-04-29 12:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "277265748",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "90000",
+        "previous_price": "94000.0",
+        "date": "2025-05-29 18:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317151165",
+    "price_changes": [
+      {
+        "change": "-8000.0",
+        "current_price": "83500",
+        "previous_price": "91500.0",
+        "date": "2025-05-11 13:12:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317461498",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-05-18 15:38:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "211002649",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "60000",
+        "previous_price": "70000.0",
+        "date": "2025-05-20 01:38:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318271119",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-06-03 14:35:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314803953",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-06-06 17:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316866604",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "88000",
+        "previous_price": "98000.0",
+        "date": "2025-05-24 05:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316795915",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "55000",
+        "previous_price": "45000.0",
+        "date": "2025-04-27 14:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "240074630",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-06-11 12:21:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315881468",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-12 11:53:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317081873",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-05 18:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "198778351",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "55000",
+        "previous_price": "60000.0",
+        "date": "2025-05-15 09:44:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317839552",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-05-25 19:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313153342",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "85000",
+        "previous_price": "95000.0",
+        "date": "2025-05-23 22:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "299140598",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "65000",
+        "previous_price": "67000.0",
+        "date": "2025-06-09 09:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "311665244",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-03-10 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "307325251",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "65000",
+        "previous_price": "69000.0",
+        "date": "2025-05-13 18:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "303814497",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "70000",
+        "previous_price": "80000.0",
+        "date": "2025-05-05 20:13:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314452113",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "72000",
+        "previous_price": "77000.0",
+        "date": "2025-06-06 19:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313708987",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "65000",
+        "previous_price": "60000.0",
+        "date": "2025-02-19 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317193952",
+    "price_changes": [
+      {
+        "change": "8000.0",
+        "current_price": "88000",
+        "previous_price": "80000.0",
+        "date": "2025-05-28 13:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317579560",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "85000",
+        "previous_price": "87000.0",
+        "date": "2025-06-09 12:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318028513",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "73000",
+        "previous_price": "76000.0",
+        "date": "2025-05-29 10:38:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "278592481",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "86000",
+        "previous_price": "90000.0",
+        "date": "2025-06-09 16:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313976180",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-29 11:34:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316241614",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-04-18 12:17:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315616731",
+    "price_changes": [
+      {
+        "change": "20000.0",
+        "current_price": "100000",
+        "previous_price": "80000.0",
+        "date": "2025-04-03 14:01:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315022739",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "80000",
+        "previous_price": "78000.0",
+        "date": "2025-05-06 12:54:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316636460",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-04-23 15:44:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314782839",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-05-12 14:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315634735",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-06 09:53:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315391581",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "60000",
+        "previous_price": "58000.0",
+        "date": "2025-03-30 10:12:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317914713",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "40000",
+        "previous_price": "42000.0",
+        "date": "2025-05-25 16:53:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "278704341",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "78000",
+        "previous_price": "80000.0",
+        "date": "2025-05-31 18:10:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313445775",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "100000",
+        "previous_price": "95000.0",
+        "date": "2025-04-08 00:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316499040",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "78000",
+        "previous_price": "80000.0",
+        "date": "2025-05-26 15:55:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314450514",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "75000",
+        "previous_price": "78000.0",
+        "date": "2025-05-10 18:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "249519429",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "50000",
+        "previous_price": "48000.0",
+        "date": "2025-04-30 12:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "308991207",
+    "price_changes": [
+      {
+        "change": "-5010.0",
+        "current_price": "59990",
+        "previous_price": "65000.0",
+        "date": "2025-06-11 07:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317149090",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-07 12:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316764118",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "58000",
+        "previous_price": "56000.0",
+        "date": "2025-04-26 10:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "309276889",
+    "price_changes": [
+      {
+        "change": "-6000.0",
+        "current_price": "89000",
+        "previous_price": "95000.0",
+        "date": "2025-06-06 09:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318435787",
+    "price_changes": [
+      {
+        "change": "-6000.0",
+        "current_price": "79000",
+        "previous_price": "85000.0",
+        "date": "2025-06-13 10:40:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "303885740",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "50000",
+        "previous_price": "52000.0",
+        "date": "2025-05-19 13:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318524365",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "65000",
+        "previous_price": "75000.0",
+        "date": "2025-06-09 21:03:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316510893",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-05-17 10:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314199354",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "80000",
+        "previous_price": "70000.0",
+        "date": "2025-03-14 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313492003",
+    "price_changes": [
+      {
+        "change": "1000.0",
+        "current_price": "72000",
+        "previous_price": "71000.0",
+        "date": "2025-04-23 19:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316907734",
+    "price_changes": [
+      {
+        "change": "8000.0",
+        "current_price": "82000",
+        "previous_price": "74000.0",
+        "date": "2025-04-29 17:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317568092",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "79000",
+        "previous_price": "83000.0",
+        "date": "2025-06-13 17:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318368846",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-06-09 11:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314152463",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-03-17 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317613085",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-05-20 16:41:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "190136724",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-05-01 14:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "311659644",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-03-27 11:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "202930639",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "65000",
+        "previous_price": "68000.0",
+        "date": "2025-05-15 12:58:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317143068",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "89000",
+        "previous_price": "99000.0",
+        "date": "2025-05-13 18:08:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318381038",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-06-13 16:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318266453",
+    "price_changes": [
+      {
+        "change": "4000.0",
+        "current_price": "80000",
+        "previous_price": "76000.0",
+        "date": "2025-06-08 17:29:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317035359",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "75000",
+        "previous_price": "72000.0",
+        "date": "2025-05-02 15:17:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316521513",
+    "price_changes": [
+      {
+        "change": "1000.0",
+        "current_price": "37000",
+        "previous_price": "36000.0",
+        "date": "2025-04-20 12:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "312592732",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-03-24 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316208696",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-13 09:13:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316868634",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-05-01 18:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "308833344",
+    "price_changes": [
+      {
+        "change": "-9000.0",
+        "current_price": "80000",
+        "previous_price": "89000.0",
+        "date": "2025-06-03 10:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "309980505",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-15 18:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315304762",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-04-21 15:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317699989",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "60000",
+        "previous_price": "65000.0",
+        "date": "2025-05-26 19:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318382312",
+    "price_changes": [
+      {
+        "change": "20000.0",
+        "current_price": "100000",
+        "previous_price": "80000.0",
+        "date": "2025-06-09 20:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318504893",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "60000",
+        "previous_price": "62000.0",
+        "date": "2025-06-09 18:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "288005740",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-03-24 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315200544",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "132000",
+        "previous_price": "127000.0",
+        "date": "2025-03-31 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315511832",
+    "price_changes": [
+      {
+        "change": "1000.0",
+        "current_price": "39000",
+        "previous_price": "38000.0",
+        "date": "2025-03-27 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318080252",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-06-08 14:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318287270",
+    "price_changes": [
+      {
+        "change": "-8000.0",
+        "current_price": "92000",
+        "previous_price": "100000.0",
+        "date": "2025-06-05 15:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317335567",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-12 12:03:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316102683",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "90000",
+        "previous_price": "80000.0",
+        "date": "2025-04-30 09:07:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315809144",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "95000",
+        "previous_price": "90000.0",
+        "date": "2025-04-07 10:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "310783742",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-03-31 09:44:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316192004",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "73000",
+        "previous_price": "70000.0",
+        "date": "2025-05-04 17:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315933413",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "90000",
+        "previous_price": "80000.0",
+        "date": "2025-04-24 01:55:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318289101",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-06-06 17:53:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315318393",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "62000",
+        "previous_price": "59000.0",
+        "date": "2025-04-28 10:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318391998",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "70000",
+        "previous_price": "80000.0",
+        "date": "2025-06-06 14:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317163299",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "48999",
+        "previous_price": "49999.0",
+        "date": "2025-05-30 14:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "306869299",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "76900",
+        "previous_price": "77900.0",
+        "date": "2025-06-09 15:38:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316635363",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-23 12:07:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316341699",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-04-30 16:32:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315984105",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-23 10:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316887065",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-05-20 21:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315586628",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "90000",
+        "previous_price": "80000.0",
+        "date": "2025-03-31 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315937890",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "70000",
+        "previous_price": "73000.0",
+        "date": "2025-05-14 14:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317371482",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-20 16:04:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315051677",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "75000",
+        "previous_price": "72000.0",
+        "date": "2025-03-25 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "308069718",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-16 18:55:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "299794333",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-03-03 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317909496",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-29 17:41:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316657133",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-24 09:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316981500",
+    "price_changes": [
+      {
+        "change": "-15000.0",
+        "current_price": "85000",
+        "previous_price": "100000.0",
+        "date": "2025-05-06 04:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318427820",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-06-09 11:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316718437",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-05-01 17:56:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317788303",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-06-09 19:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "309298134",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-04 17:21:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315078260",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-21 09:55:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318100852",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "60000",
+        "previous_price": "65000.0",
+        "date": "2025-06-07 19:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314939405",
+    "price_changes": [
+      {
+        "change": "8000.0",
+        "current_price": "87000",
+        "previous_price": "79000.0",
+        "date": "2025-04-07 17:21:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316341190",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-05-16 08:32:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "300112948",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-04-25 19:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317218289",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "65000",
+        "previous_price": "69000.0",
+        "date": "2025-05-24 20:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318158995",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "78000",
+        "previous_price": "80000.0",
+        "date": "2025-06-06 17:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315910730",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "69999",
+        "previous_price": "64999.0",
+        "date": "2025-04-21 16:04:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317605795",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-05-20 16:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "282085737",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "80000",
+        "previous_price": "90000.0",
+        "date": "2025-05-14 11:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314750273",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "100000",
+        "previous_price": "90000.0",
+        "date": "2025-04-08 17:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314423874",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "65000",
+        "previous_price": "60000.0",
+        "date": "2025-03-31 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317711788",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-06-04 14:44:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314174040",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-05-18 23:20:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314909530",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "77000",
+        "previous_price": "80000.0",
+        "date": "2025-05-10 13:12:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317315959",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-12 12:53:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "312885225",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-17 22:22:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "312625442",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "95000",
+        "previous_price": "90000.0",
+        "date": "2025-04-21 15:16:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316224405",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "70000",
+        "previous_price": "60000.0",
+        "date": "2025-04-21 02:13:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "311267984",
+    "price_changes": [
+      {
+        "change": "-15000.0",
+        "current_price": "50000",
+        "previous_price": "65000.0",
+        "date": "2025-06-13 16:48:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315810088",
+    "price_changes": [
+      {
+        "change": "8000.0",
+        "current_price": "85000",
+        "previous_price": "77000.0",
+        "date": "2025-04-22 14:59:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317357595",
+    "price_changes": [
+      {
+        "change": "-10.0",
+        "current_price": "79990",
+        "previous_price": "80000.0",
+        "date": "2025-05-31 20:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "289449163",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "50000",
+        "previous_price": "55000.0",
+        "date": "2025-05-25 17:40:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316673834",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "84000",
+        "previous_price": "82000.0",
+        "date": "2025-04-30 19:44:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316872497",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-06-01 13:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315749482",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "90000",
+        "previous_price": "80000.0",
+        "date": "2025-04-30 07:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "293861561",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "100000",
+        "previous_price": "95000.0",
+        "date": "2025-05-31 19:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316391076",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-05-16 18:01:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317318061",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-05-11 23:25:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315210659",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-02 10:04:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314909946",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "75000",
+        "previous_price": "73000.0",
+        "date": "2025-04-28 10:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315911384",
+    "price_changes": [
+      {
+        "change": "4000.0",
+        "current_price": "80000",
+        "previous_price": "76000.0",
+        "date": "2025-04-08 10:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317362263",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "60000",
+        "previous_price": "65000.0",
+        "date": "2025-05-19 23:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "311457628",
+    "price_changes": [
+      {
+        "change": "3.0",
+        "current_price": "99997",
+        "previous_price": "99994.0",
+        "date": "2025-03-09 18:54:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316362784",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "80000",
+        "previous_price": "90000.0",
+        "date": "2025-05-13 11:01:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315932450",
+    "price_changes": [
+      {
+        "change": "1000.0",
+        "current_price": "62000",
+        "previous_price": "61000.0",
+        "date": "2025-04-25 15:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316741184",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "60000",
+        "previous_price": "65000.0",
+        "date": "2025-05-13 12:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318322372",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "67000",
+        "previous_price": "70000.0",
+        "date": "2025-06-12 10:13:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316184609",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "63000",
+        "previous_price": "65000.0",
+        "date": "2025-05-08 13:04:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318211882",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-06-02 14:53:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316986459",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-05-13 16:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318335032",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "60000",
+        "previous_price": "70000.0",
+        "date": "2025-06-09 15:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "274598446",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "70000",
+        "previous_price": "72000.0",
+        "date": "2025-05-29 20:44:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318287936",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-06-06 21:59:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "282150321",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-23 14:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315749932",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "77000",
+        "previous_price": "75000.0",
+        "date": "2025-04-22 11:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316559402",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "80000",
+        "previous_price": "90000.0",
+        "date": "2025-05-26 08:32:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316637176",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "80000",
+        "previous_price": "70000.0",
+        "date": "2025-04-30 20:36:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "300395918",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-05-16 11:32:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313007740",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-05-19 18:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316338998",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-20 21:32:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315002966",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-07 13:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317039263",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-05-02 12:29:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315465032",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-06 20:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316077720",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "65000",
+        "previous_price": "67000.0",
+        "date": "2025-05-23 14:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317069308",
+    "price_changes": [
+      {
+        "change": "20000.0",
+        "current_price": "65000",
+        "previous_price": "45000.0",
+        "date": "2025-05-03 14:25:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314498017",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "70000",
+        "previous_price": "68000.0",
+        "date": "2025-03-19 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316969560",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-20 11:16:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318598750",
+    "price_changes": [
+      {
+        "change": "-13000.0",
+        "current_price": "55000",
+        "previous_price": "68000.0",
+        "date": "2025-06-14 12:36:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318388314",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-06-14 00:43:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "184978796",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2024-12-01 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315129735",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "80000",
+        "previous_price": "78000.0",
+        "date": "2025-04-09 18:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313202144",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "50000",
+        "previous_price": "45000.0",
+        "date": "2025-03-27 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315890062",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "65000",
+        "previous_price": "62000.0",
+        "date": "2025-04-24 22:20:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316379955",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "33000",
+        "previous_price": "30000.0",
+        "date": "2025-04-18 18:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "252768481",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-29 22:40:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "303721206",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-04-01 15:17:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317696122",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-06-02 12:29:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "167530364",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "78000",
+        "previous_price": "76000.0",
+        "date": "2025-03-26 10:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318156534",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-06-06 15:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316898354",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-24 10:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318010470",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "68000",
+        "previous_price": "70000.0",
+        "date": "2025-05-29 01:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "273625293",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "64000",
+        "previous_price": "62000.0",
+        "date": "2025-04-09 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314934705",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-08 10:24:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316958224",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "65000",
+        "previous_price": "75000.0",
+        "date": "2025-05-29 13:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "303112257",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-04 11:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318583161",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-06-12 06:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317084058",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "74000",
+        "previous_price": "75000.0",
+        "date": "2025-05-27 12:29:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317283603",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-17 19:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318448793",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "90000",
+        "previous_price": "100000.0",
+        "date": "2025-06-09 12:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317006292",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "63000",
+        "previous_price": "65000.0",
+        "date": "2025-06-05 14:58:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314239722",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-04-25 18:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317551340",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "50000",
+        "previous_price": "60000.0",
+        "date": "2025-06-05 20:24:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316979456",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-06-05 18:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317320888",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-05-10 10:07:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "232367999",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-14 13:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315913409",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "67000",
+        "previous_price": "70000.0",
+        "date": "2025-05-13 06:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316369178",
+    "price_changes": [
+      {
+        "change": "8000.0",
+        "current_price": "77000",
+        "previous_price": "69000.0",
+        "date": "2025-04-30 22:56:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316593611",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "82000",
+        "previous_price": "79000.0",
+        "date": "2025-04-25 19:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318205878",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-06-13 14:13:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316133891",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "95000",
+        "previous_price": "90000.0",
+        "date": "2025-04-21 16:58:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316590969",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-27 16:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317557121",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "60000",
+        "previous_price": "65000.0",
+        "date": "2025-06-11 12:57:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316195068",
+    "price_changes": [
+      {
+        "change": "20000.0",
+        "current_price": "100000",
+        "previous_price": "80000.0",
+        "date": "2025-04-12 21:30:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318010679",
+    "price_changes": [
+      {
+        "change": "6000.0",
+        "current_price": "85000",
+        "previous_price": "79000.0",
+        "date": "2025-06-04 13:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "310070287",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "95000",
+        "previous_price": "85000.0",
+        "date": "2025-02-21 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "301556788",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-06-04 10:59:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317673033",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "65000",
+        "previous_price": "75000.0",
+        "date": "2025-05-24 11:08:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315036193",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "70000",
+        "previous_price": "60000.0",
+        "date": "2025-03-18 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "310613338",
+    "price_changes": [
+      {
+        "change": "25000.0",
+        "current_price": "95000",
+        "previous_price": "70000.0",
+        "date": "2025-03-03 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316165883",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "110000",
+        "previous_price": "100000.0",
+        "date": "2025-04-11 12:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316063035",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-20 20:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318569078",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-06-14 15:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "312488327",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-06-05 13:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317059029",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "65000",
+        "previous_price": "68000.0",
+        "date": "2025-05-16 14:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315483481",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "65000",
+        "previous_price": "60000.0",
+        "date": "2025-04-24 15:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "309127398",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "55000",
+        "previous_price": "50000.0",
+        "date": "2025-05-03 18:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "290000475",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "50000",
+        "previous_price": "52000.0",
+        "date": "2025-06-13 17:27:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317738519",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-06-03 21:10:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316523199",
+    "price_changes": [
+      {
+        "change": "3500.0",
+        "current_price": "61000",
+        "previous_price": "57500.0",
+        "date": "2025-04-24 14:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317730588",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "90000",
+        "previous_price": "100000.0",
+        "date": "2025-06-02 17:29:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317141113",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-06-13 16:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315791406",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-04-14 18:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "288393435",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "80000",
+        "previous_price": "90000.0",
+        "date": "2025-05-13 16:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317360965",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "52000",
+        "previous_price": "55000.0",
+        "date": "2025-05-15 18:04:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317156251",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "85000",
+        "previous_price": "88000.0",
+        "date": "2025-05-24 11:50:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316703848",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-04-29 21:30:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "309123501",
+    "price_changes": [
+      {
+        "change": "6000.0",
+        "current_price": "89000",
+        "previous_price": "83000.0",
+        "date": "2025-05-02 09:57:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317607142",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-23 18:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316212210",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-25 17:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317460243",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "78000",
+        "previous_price": "80000.0",
+        "date": "2025-05-24 10:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315628189",
+    "price_changes": [
+      {
+        "change": "20000.0",
+        "current_price": "100000",
+        "previous_price": "80000.0",
+        "date": "2025-04-09 22:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315820540",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "100000",
+        "previous_price": "90000.0",
+        "date": "2025-04-09 10:04:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316662883",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-26 16:53:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316907438",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "63000",
+        "previous_price": "65000.0",
+        "date": "2025-05-05 13:13:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316921633",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-29 09:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318602485",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-06-14 13:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313233516",
+    "price_changes": [
+      {
+        "change": "4000.0",
+        "current_price": "82000",
+        "previous_price": "78000.0",
+        "date": "2025-04-23 15:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313354029",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-03-27 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315963981",
+    "price_changes": [
+      {
+        "change": "54945000.0",
+        "current_price": "55000",
+        "previous_price": "-54890000.0",
+        "date": "2025-04-07 15:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317107178",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "80000",
+        "previous_price": "90000.0",
+        "date": "2025-06-01 10:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317117007",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-06-08 04:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "182246958",
+    "price_changes": [
+      {
+        "change": "4000.0",
+        "current_price": "64000",
+        "previous_price": "60000.0",
+        "date": "2025-04-04 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315904568",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-23 20:54:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317850594",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-06-07 12:43:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317626760",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "60000",
+        "previous_price": "70000.0",
+        "date": "2025-05-29 22:08:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "303720440",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "65000",
+        "previous_price": "60000.0",
+        "date": "2025-05-24 19:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316455052",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-22 22:43:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317120117",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "76000",
+        "previous_price": "80000.0",
+        "date": "2025-05-13 21:55:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "285830667",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "74999",
+        "previous_price": "79999.0",
+        "date": "2025-05-17 21:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315082999",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-06 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317407078",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "45000",
+        "previous_price": "55000.0",
+        "date": "2025-05-17 14:10:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317875631",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-06-11 07:48:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "311528816",
+    "price_changes": [
+      {
+        "change": "1000.0",
+        "current_price": "70000",
+        "previous_price": "69000.0",
+        "date": "2025-04-25 23:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314689260",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "90000",
+        "previous_price": "100000.0",
+        "date": "2025-05-10 12:58:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "154212924",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-11 08:34:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316029241",
+    "price_changes": [
+      {
+        "change": "25000.0",
+        "current_price": "100000",
+        "previous_price": "75000.0",
+        "date": "2025-04-29 10:24:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318046754",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "70000",
+        "previous_price": "80000.0",
+        "date": "2025-05-30 10:14:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315713851",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-29 01:25:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316133349",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "120000",
+        "previous_price": "115000.0",
+        "date": "2025-04-13 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316616726",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-15 14:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "279091615",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "80000",
+        "previous_price": "78000.0",
+        "date": "2025-04-16 16:48:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "298970024",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "75000",
+        "previous_price": "73000.0",
+        "date": "2025-05-01 13:59:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316073048",
+    "price_changes": [
+      {
+        "change": "20000.0",
+        "current_price": "120000",
+        "previous_price": "100000.0",
+        "date": "2025-04-09 16:08:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316466269",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-04-20 12:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315027467",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "70000",
+        "previous_price": "67000.0",
+        "date": "2025-04-22 23:32:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318268882",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "100000",
+        "previous_price": "110000.0",
+        "date": "2025-06-12 15:01:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317978276",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "60000",
+        "previous_price": "55000.0",
+        "date": "2025-06-06 11:56:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316362238",
+    "price_changes": [
+      {
+        "change": "-9900.0",
+        "current_price": "90000",
+        "previous_price": "99900.0",
+        "date": "2025-05-28 21:12:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318189118",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "60000",
+        "previous_price": "62000.0",
+        "date": "2025-06-09 22:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318193039",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-06-02 09:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "306912262",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2024-09-16 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317597572",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "88000",
+        "previous_price": "90000.0",
+        "date": "2025-05-20 23:41:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318485732",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "65000",
+        "previous_price": "66000.0",
+        "date": "2025-06-12 20:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316950881",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "87000",
+        "previous_price": "85000.0",
+        "date": "2025-05-05 10:36:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317949142",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-26 17:54:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318409645",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "85000",
+        "previous_price": "88000.0",
+        "date": "2025-06-06 17:12:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314690850",
+    "price_changes": [
+      {
+        "change": "-500.0",
+        "current_price": "49500",
+        "previous_price": "50000.0",
+        "date": "2025-06-09 17:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317389776",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-06-03 17:21:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "292869732",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-25 18:58:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314492366",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-05-04 10:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318301493",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "60000",
+        "previous_price": "70000.0",
+        "date": "2025-06-09 16:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318076308",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "99000",
+        "previous_price": "103000.0",
+        "date": "2025-06-06 13:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318276117",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-06-05 10:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318287737",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "45000",
+        "previous_price": "40000.0",
+        "date": "2025-06-03 17:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315248123",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-04-05 14:40:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315186433",
+    "price_changes": [
+      {
+        "change": "1000.0",
+        "current_price": "100000",
+        "previous_price": "99000.0",
+        "date": "2025-04-26 13:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317521059",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "65000",
+        "previous_price": "67000.0",
+        "date": "2025-05-24 19:08:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "311914396",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-04 23:32:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "272845202",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-23 08:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316412120",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "73000",
+        "previous_price": "71000.0",
+        "date": "2025-04-21 14:41:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315827935",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "85000",
+        "previous_price": "87000.0",
+        "date": "2025-05-29 21:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317361303",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "86000",
+        "previous_price": "90000.0",
+        "date": "2025-06-14 10:56:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316772876",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "72000",
+        "previous_price": "76000.0",
+        "date": "2025-05-24 16:54:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "309685443",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "60000",
+        "previous_price": "63000.0",
+        "date": "2025-05-23 06:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315059903",
+    "price_changes": [
+      {
+        "change": "50000.0",
+        "current_price": "150000",
+        "previous_price": "100000.0",
+        "date": "2025-04-11 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313664162",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-24 14:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315227868",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-04-01 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318045813",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "60000",
+        "previous_price": "63000.0",
+        "date": "2025-06-01 09:13:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "310588840",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "68000",
+        "previous_price": "70000.0",
+        "date": "2025-05-26 14:41:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316611601",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "58000",
+        "previous_price": "56000.0",
+        "date": "2025-04-24 22:14:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318379812",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "90000",
+        "previous_price": "100000.0",
+        "date": "2025-06-11 12:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316625547",
+    "price_changes": [
+      {
+        "change": "25000.0",
+        "current_price": "95000",
+        "previous_price": "70000.0",
+        "date": "2025-04-29 17:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315594222",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "60000",
+        "previous_price": "61000.0",
+        "date": "2025-05-04 10:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316132562",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-29 15:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "304830595",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-04-23 16:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316492108",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-20 09:16:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315909802",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "65000",
+        "previous_price": "60000.0",
+        "date": "2025-04-26 14:50:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316726917",
+    "price_changes": [
+      {
+        "change": "30000.0",
+        "current_price": "70000",
+        "previous_price": "40000.0",
+        "date": "2025-05-02 20:56:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315930241",
+    "price_changes": [
+      {
+        "change": "8000.0",
+        "current_price": "82000",
+        "previous_price": "74000.0",
+        "date": "2025-04-28 14:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317197440",
+    "price_changes": [
+      {
+        "change": "-1990.0",
+        "current_price": "78000",
+        "previous_price": "79990.0",
+        "date": "2025-05-29 19:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313244245",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-16 07:44:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315566038",
+    "price_changes": [
+      {
+        "change": "15000.0",
+        "current_price": "100000",
+        "previous_price": "85000.0",
+        "date": "2025-04-07 19:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316207436",
+    "price_changes": [
+      {
+        "change": "4000.0",
+        "current_price": "89000",
+        "previous_price": "85000.0",
+        "date": "2025-05-12 07:17:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "278021424",
+    "price_changes": [
+      {
+        "change": "8000.0",
+        "current_price": "100000",
+        "previous_price": "92000.0",
+        "date": "2025-04-09 09:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "308110692",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-02 09:10:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316313536",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "75000",
+        "previous_price": "77000.0",
+        "date": "2025-05-07 14:56:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318392475",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "64000",
+        "previous_price": "68000.0",
+        "date": "2025-06-11 10:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315928663",
+    "price_changes": [
+      {
+        "change": "40000.0",
+        "current_price": "130000",
+        "previous_price": "90000.0",
+        "date": "2025-04-08 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316827134",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "76000",
+        "previous_price": "79000.0",
+        "date": "2025-05-06 07:29:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "288965110",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "65000",
+        "previous_price": "60000.0",
+        "date": "2025-04-30 11:48:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315614690",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-14 17:25:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318029480",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-05-31 19:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317850552",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-29 11:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314727450",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-22 10:07:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "300788716",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-05-03 18:20:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318084720",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-06-11 14:12:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316415509",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "78000",
+        "previous_price": "80000.0",
+        "date": "2025-05-19 16:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "296362080",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-05-30 09:54:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "311802061",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-04-27 12:22:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315612161",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-04-23 12:40:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317852014",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-06-05 21:20:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318623728",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "69000",
+        "previous_price": "70000.0",
+        "date": "2025-06-14 16:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315867597",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-29 13:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318592895",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "55000",
+        "previous_price": "60000.0",
+        "date": "2025-06-12 14:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "312606307",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-08 12:57:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314887448",
+    "price_changes": [
+      {
+        "change": "1000.0",
+        "current_price": "69000",
+        "previous_price": "68000.0",
+        "date": "2025-04-05 20:55:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315944479",
+    "price_changes": [
+      {
+        "change": "25000.0",
+        "current_price": "78000",
+        "previous_price": "53000.0",
+        "date": "2025-04-09 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317919248",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-06-02 14:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315211862",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "85000",
+        "previous_price": "75000.0",
+        "date": "2025-03-31 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315314773",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "90000",
+        "previous_price": "80000.0",
+        "date": "2025-04-06 12:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "279494367",
+    "price_changes": [
+      {
+        "change": "1000.0",
+        "current_price": "57000",
+        "previous_price": "56000.0",
+        "date": "2025-03-17 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317897823",
+    "price_changes": [
+      {
+        "change": "-8000.0",
+        "current_price": "90000",
+        "previous_price": "98000.0",
+        "date": "2025-05-29 15:10:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "300772703",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-06-03 19:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "229241523",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-06-07 21:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314849209",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "75000",
+        "previous_price": "73000.0",
+        "date": "2025-03-20 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317282350",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-05-18 21:25:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "199220310",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "95000",
+        "previous_price": "90000.0",
+        "date": "2025-03-14 16:58:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315720394",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-27 07:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314687893",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-04-02 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "286953289",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-05-16 11:25:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315542107",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "60000",
+        "previous_price": "57000.0",
+        "date": "2025-04-05 09:48:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315957488",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-04-25 18:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317964037",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-06-02 07:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "296687043",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "90000",
+        "previous_price": "100000.0",
+        "date": "2025-05-28 21:16:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "294401225",
+    "price_changes": [
+      {
+        "change": "20000.0",
+        "current_price": "100000",
+        "previous_price": "80000.0",
+        "date": "2025-04-09 22:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316844918",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-17 16:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "280442830",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "60000",
+        "previous_price": "55000.0",
+        "date": "2025-04-23 10:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317299872",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "50000",
+        "previous_price": "55000.0",
+        "date": "2025-05-15 15:01:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314901434",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "68000",
+        "previous_price": "70000.0",
+        "date": "2025-05-14 20:30:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317551127",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "72000",
+        "previous_price": "75000.0",
+        "date": "2025-05-29 12:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316987614",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "85000",
+        "previous_price": "95000.0",
+        "date": "2025-05-24 11:55:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "305561530",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "85000",
+        "previous_price": "89000.0",
+        "date": "2025-05-12 23:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316761347",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "70000",
+        "previous_price": "60000.0",
+        "date": "2025-04-25 09:48:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "303227525",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-25 13:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318522170",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "90000",
+        "previous_price": "100000.0",
+        "date": "2025-06-14 13:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318131228",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "68000",
+        "previous_price": "70000.0",
+        "date": "2025-06-01 14:20:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317257160",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "87500",
+        "previous_price": "97500.0",
+        "date": "2025-05-29 19:41:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314946175",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-03-17 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314676517",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "99990",
+        "previous_price": "89990.0",
+        "date": "2025-06-03 22:34:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "311906207",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-05-19 16:04:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314551242",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "105000",
+        "previous_price": "110000.0",
+        "date": "2025-05-10 22:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315809194",
+    "price_changes": [
+      {
+        "change": "6500.0",
+        "current_price": "68500",
+        "previous_price": "62000.0",
+        "date": "2025-04-09 19:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318217252",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-06-05 10:38:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "268575667",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "70000",
+        "previous_price": "73000.0",
+        "date": "2025-06-07 20:16:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316728807",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-05-05 09:23:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "198394022",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-04-02 21:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317467774",
+    "price_changes": [
+      {
+        "change": "9000.0",
+        "current_price": "88000",
+        "previous_price": "79000.0",
+        "date": "2025-05-31 16:48:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317334838",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-05-17 14:40:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "265407488",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "55000",
+        "previous_price": "60000.0",
+        "date": "2025-06-04 18:16:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315935156",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "65000",
+        "previous_price": "60000.0",
+        "date": "2025-04-10 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315943273",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "60000",
+        "previous_price": "57000.0",
+        "date": "2025-04-24 15:32:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316949909",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "89000",
+        "previous_price": "79000.0",
+        "date": "2025-05-15 10:07:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318146403",
+    "price_changes": [
+      {
+        "change": "-15000.0",
+        "current_price": "70000",
+        "previous_price": "85000.0",
+        "date": "2025-06-08 10:03:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318350723",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "35000",
+        "previous_price": "39000.0",
+        "date": "2025-06-08 10:35:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315564173",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "78000",
+        "previous_price": "76000.0",
+        "date": "2025-04-30 14:01:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318297042",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "60000",
+        "previous_price": "61000.0",
+        "date": "2025-06-06 21:52:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "287756063",
+    "price_changes": [
+      {
+        "change": "25000.0",
+        "current_price": "75000",
+        "previous_price": "50000.0",
+        "date": "2025-03-26 16:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316783788",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "80000",
+        "previous_price": "83000.0",
+        "date": "2025-05-20 15:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "310329934",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "52000",
+        "previous_price": "55000.0",
+        "date": "2025-05-15 19:03:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316245244",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-04-29 12:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "303300074",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "40000",
+        "previous_price": "35000.0",
+        "date": "2025-04-04 10:25:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "198588054",
+    "price_changes": [
+      {
+        "change": "-4000.0",
+        "current_price": "100000",
+        "previous_price": "104000.0",
+        "date": "2025-06-11 13:40:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316768420",
+    "price_changes": [
+      {
+        "change": "2000.0",
+        "current_price": "75000",
+        "previous_price": "73000.0",
+        "date": "2025-04-29 17:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318269022",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "95000",
+        "previous_price": "90000.0",
+        "date": "2025-06-07 20:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "295252797",
+    "price_changes": [
+      {
+        "change": "-1000.0",
+        "current_price": "78000",
+        "previous_price": "79000.0",
+        "date": "2025-06-14 10:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314471098",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "70000",
+        "previous_price": "60000.0",
+        "date": "2025-04-29 16:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315375920",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-04-03 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318391991",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-06-10 00:25:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "280491531",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-06-13 12:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317519281",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-29 11:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "305966075",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-04-08 19:22:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318017705",
+    "price_changes": [
+      {
+        "change": "6000.0",
+        "current_price": "85000",
+        "previous_price": "79000.0",
+        "date": "2025-06-04 16:53:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "203505716",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "100000",
+        "previous_price": "90000.0",
+        "date": "2025-05-25 22:20:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316174819",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "83000",
+        "previous_price": "85000.0",
+        "date": "2025-05-04 10:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317723275",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "80000",
+        "previous_price": "83000.0",
+        "date": "2025-06-05 20:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "166163447",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "90000",
+        "previous_price": "80000.0",
+        "date": "2025-04-06 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317310958",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "58000",
+        "previous_price": "60000.0",
+        "date": "2025-05-30 15:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313918715",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-29 22:54:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316926044",
+    "price_changes": [
+      {
+        "change": "-14000.0",
+        "current_price": "65000",
+        "previous_price": "79000.0",
+        "date": "2025-05-24 15:27:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316487124",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-05-09 18:54:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317067937",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-17 17:50:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "274152659",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-05-28 13:56:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315833677",
+    "price_changes": [
+      {
+        "change": "4000.0",
+        "current_price": "85000",
+        "previous_price": "81000.0",
+        "date": "2025-04-21 17:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315399988",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-05-05 22:17:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316720972",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "60000",
+        "previous_price": "50000.0",
+        "date": "2025-04-24 14:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "313423014",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "85000",
+        "previous_price": "82000.0",
+        "date": "2025-04-27 10:17:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317624379",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "73000",
+        "previous_price": "75000.0",
+        "date": "2025-05-24 21:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317218697",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "82000",
+        "previous_price": "85000.0",
+        "date": "2025-05-20 12:59:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314926290",
+    "price_changes": [
+      {
+        "change": "4000.0",
+        "current_price": "95000",
+        "previous_price": "91000.0",
+        "date": "2025-03-17 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316623293",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "80000",
+        "previous_price": "75000.0",
+        "date": "2025-04-23 18:35:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "275587572",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-06-01 15:45:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316771201",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "80000",
+        "previous_price": "83000.0",
+        "date": "2025-05-24 19:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316900091",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "80000",
+        "previous_price": "70000.0",
+        "date": "2025-04-29 17:42:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318192774",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "60000",
+        "previous_price": "55000.0",
+        "date": "2025-05-30 17:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "306895840",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "80000",
+        "previous_price": "90000.0",
+        "date": "2025-05-26 11:33:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317576812",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-17 14:08:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "212006998",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "70000",
+        "previous_price": "75000.0",
+        "date": "2025-06-12 00:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317139084",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "72000",
+        "previous_price": "77000.0",
+        "date": "2025-05-24 13:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318549813",
+    "price_changes": [
+      {
+        "change": "-3000.0",
+        "current_price": "75000",
+        "previous_price": "78000.0",
+        "date": "2025-06-11 14:49:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314717237",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "85000",
+        "previous_price": "80000.0",
+        "date": "2025-03-29 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314032658",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "75000",
+        "previous_price": "72000.0",
+        "date": "2025-04-07 19:48:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315114509",
+    "price_changes": [
+      {
+        "change": "20000.0",
+        "current_price": "90000",
+        "previous_price": "70000.0",
+        "date": "2025-03-25 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316353745",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-14 18:03:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314935905",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "88000",
+        "previous_price": "85000.0",
+        "date": "2025-04-01 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317857802",
+    "price_changes": [
+      {
+        "change": "-2000.0",
+        "current_price": "56000",
+        "previous_price": "58000.0",
+        "date": "2025-06-13 11:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314019589",
+    "price_changes": [
+      {
+        "change": "8000.0",
+        "current_price": "70000",
+        "previous_price": "62000.0",
+        "date": "2025-03-26 19:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316671308",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "65000",
+        "previous_price": "70000.0",
+        "date": "2025-05-06 06:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316715817",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "50000",
+        "previous_price": "45000.0",
+        "date": "2025-04-25 20:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316791662",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "47000",
+        "previous_price": "52000.0",
+        "date": "2025-05-07 20:38:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "301491642",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "75000",
+        "previous_price": "80000.0",
+        "date": "2025-05-05 16:41:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316921845",
+    "price_changes": [
+      {
+        "change": "3000.0",
+        "current_price": "70000",
+        "previous_price": "67000.0",
+        "date": "2025-05-02 09:16:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315730547",
+    "price_changes": [
+      {
+        "change": "9000.0",
+        "current_price": "90000",
+        "previous_price": "81000.0",
+        "date": "2025-04-08 09:13:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315593982",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-16 12:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318137291",
+    "price_changes": [
+      {
+        "change": "8000.0",
+        "current_price": "98000",
+        "previous_price": "90000.0",
+        "date": "2025-06-06 10:34:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316664435",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "85000",
+        "previous_price": "90000.0",
+        "date": "2025-05-10 10:18:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315583537",
+    "price_changes": [
+      {
+        "change": "15000.0",
+        "current_price": "100000",
+        "previous_price": "85000.0",
+        "date": "2025-04-07 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318013751",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "95000",
+        "previous_price": "100000.0",
+        "date": "2025-06-05 13:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316220092",
+    "price_changes": [
+      {
+        "change": "3500.0",
+        "current_price": "90000",
+        "previous_price": "86500.0",
+        "date": "2025-04-24 09:37:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315690340",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "90000",
+        "previous_price": "85000.0",
+        "date": "2025-05-03 14:59:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316548346",
+    "price_changes": [
+      {
+        "change": "20000.0",
+        "current_price": "80000",
+        "previous_price": "60000.0",
+        "date": "2025-05-01 14:01:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "315317778",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "90000",
+        "previous_price": "95000.0",
+        "date": "2025-05-17 14:39:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316447367",
+    "price_changes": [
+      {
+        "change": "1000.0",
+        "current_price": "70000",
+        "previous_price": "69000.0",
+        "date": "2025-04-23 22:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316512707",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "80000",
+        "previous_price": "85000.0",
+        "date": "2025-05-07 14:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "316856036",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "75000",
+        "previous_price": "70000.0",
+        "date": "2025-04-28 18:47:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317572980",
+    "price_changes": [
+      {
+        "change": "-10000.0",
+        "current_price": "90000",
+        "previous_price": "100000.0",
+        "date": "2025-05-20 14:50:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "314441849",
+    "price_changes": [
+      {
+        "change": "5000.0",
+        "current_price": "70000",
+        "previous_price": "65000.0",
+        "date": "2025-03-05 00:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318343480",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "60000",
+        "previous_price": "",
+        "date": "2025-06-11 11:22:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318631027",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "60000",
+        "previous_price": "",
+        "date": "2025-06-11 09:22:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318583412",
+    "price_changes": [
+      {
+        "change": "-5000.0",
+        "current_price": "60000",
+        "previous_price": "65000.0",
+        "date": "2025-06-13 13:55:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318555234",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "85000",
+        "previous_price": "",
+        "date": "2025-06-11 11:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318085753",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "55000",
+        "previous_price": "",
+        "date": "2025-06-11 12:03:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317675006",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-11 12:10:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318639288",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-11 12:40:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318648688",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "75000",
+        "previous_price": "",
+        "date": "2025-06-11 15:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318641110",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "80000",
+        "previous_price": "",
+        "date": "2025-06-11 13:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318633201",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "70000",
+        "previous_price": "",
+        "date": "2025-06-11 14:34:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318615509",
+    "price_changes": [
+      {
+        "change": "10000.0",
+        "current_price": "75000",
+        "previous_price": "65000.0",
+        "date": "2025-06-12 12:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "310566977",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-11 13:07:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318651973",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "75000",
+        "previous_price": "",
+        "date": "2025-06-11 16:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318653666",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-11 16:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318655067",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "90000",
+        "previous_price": "",
+        "date": "2025-06-11 17:22:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "272021916",
+    "price_changes": [
+      {
+        "change": "-15000.0",
+        "current_price": "60000",
+        "previous_price": "75000.0",
+        "date": "2025-06-12 13:08:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318257264",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "95000",
+        "previous_price": "",
+        "date": "2025-06-11 17:35:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318659182",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "95000",
+        "previous_price": "",
+        "date": "2025-06-11 18:25:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318663008",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "85000",
+        "previous_price": "",
+        "date": "2025-06-11 20:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318667919",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "80000",
+        "previous_price": "",
+        "date": "2025-06-12 02:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318666541",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-12 01:28:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318666464",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "60000",
+        "previous_price": "",
+        "date": "2025-06-12 01:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318666361",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "65000",
+        "previous_price": "",
+        "date": "2025-06-12 01:00:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318665594",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "60000",
+        "previous_price": "",
+        "date": "2025-06-11 23:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318664486",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "70000",
+        "previous_price": "",
+        "date": "2025-06-11 23:08:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318664249",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "89000",
+        "previous_price": "",
+        "date": "2025-06-11 22:09:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "307874915",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-11 23:01:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "294781919",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-11 23:22:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "199516018",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "70000",
+        "previous_price": "",
+        "date": "2025-06-12 07:46:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318674216",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-12 11:08:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318673876",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "60000",
+        "previous_price": "",
+        "date": "2025-06-12 10:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318672836",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "80000",
+        "previous_price": "",
+        "date": "2025-06-12 09:38:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318672759",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "98000",
+        "previous_price": "",
+        "date": "2025-06-12 09:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318672453",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "45000",
+        "previous_price": "",
+        "date": "2025-06-12 09:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318235072",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-12 10:44:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318676412",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "55000",
+        "previous_price": "",
+        "date": "2025-06-12 12:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318678378",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "65000",
+        "previous_price": "",
+        "date": "2025-06-12 14:29:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "306524630",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "98000",
+        "previous_price": "",
+        "date": "2025-06-12 14:55:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318679595",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "70000",
+        "previous_price": "",
+        "date": "2025-06-12 15:55:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318254343",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-12 16:15:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "284119278",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "72000",
+        "previous_price": "",
+        "date": "2025-06-12 16:24:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318681620",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "67000",
+        "previous_price": "",
+        "date": "2025-06-12 18:17:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318681403",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "95000",
+        "previous_price": "",
+        "date": "2025-06-12 18:06:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318685604",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "80000",
+        "previous_price": "",
+        "date": "2025-06-12 22:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318685602",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "70000",
+        "previous_price": "",
+        "date": "2025-06-12 22:31:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318694648",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "80000",
+        "previous_price": "",
+        "date": "2025-06-13 09:51:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318696855",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "80000",
+        "previous_price": "",
+        "date": "2025-06-13 12:24:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318696371",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "95000",
+        "previous_price": "",
+        "date": "2025-06-13 11:53:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318697399",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "60000",
+        "previous_price": "",
+        "date": "2025-06-13 13:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318698794",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "65000",
+        "previous_price": "",
+        "date": "2025-06-13 14:25:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "317650515",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "95000",
+        "previous_price": "",
+        "date": "2025-06-13 21:26:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318704183",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "90000",
+        "previous_price": "",
+        "date": "2025-06-13 20:36:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318701330",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "75000",
+        "previous_price": "",
+        "date": "2025-06-13 16:53:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318700441",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "90000",
+        "previous_price": "",
+        "date": "2025-06-13 16:07:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "294732052",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "79000",
+        "previous_price": "",
+        "date": "2025-06-13 19:11:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "290853174",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "80000",
+        "previous_price": "",
+        "date": "2025-06-13 19:19:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318711769",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "70000",
+        "previous_price": "",
+        "date": "2025-06-14 10:08:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318711607",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-14 09:56:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "318640421",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "100000",
+        "previous_price": "",
+        "date": "2025-06-14 13:05:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "312575253",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "85000",
+        "previous_price": "",
+        "date": "2025-06-14 12:02:00"
+      }
+    ]
+  },
+  {
+    "offer_id": "168249676",
+    "price_changes": [
+      {
+        "change": "0.0",
+        "current_price": "75000",
+        "previous_price": "",
+        "date": "2025-06-14 14:55:00"
+      }
+    ]
+  }
+]

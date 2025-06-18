@@ -1,0 +1,14 @@
+{
+  "tag": "netherlands",
+  "server": "midorinote.online",
+  "server_port": 8443,
+  "uuid": "75709658-4158-4ea7-b8fd-a77fe43b7ab9",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "midorinote.org",
+    "reality": {
+      "public_key": "Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0",
+      "short_id": "808e2d36726ee97e"
+    }
+  }
+}

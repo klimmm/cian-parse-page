@@ -1,0 +1,14 @@
+{
+  "tag": "turkey",
+  "server": "quarenty.site",
+  "server_port": 8443,
+  "uuid": "64b8d608-91a6-4a43-8a51-e4169a10187e",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "quarenty.com",
+    "reality": {
+      "public_key": "zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04",
+      "short_id": "c6ef72e4635d15a5"
+    }
+  }
+}

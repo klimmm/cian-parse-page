@@ -1,0 +1,14 @@
+{
+  "tag": "switzerland",
+  "server": "draysilo.site",
+  "server_port": 8443,
+  "uuid": "d71af8ba-752f-4c5b-8eba-d2db4be06a64",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "draysilo.com",
+    "reality": {
+      "public_key": "kfPQFX7o9u9jxviYVnjfwxiqyVUD7rpMulG_x7Wwkgc",
+      "short_id": "666ae076fa1a4aca"
+    }
+  }
+}

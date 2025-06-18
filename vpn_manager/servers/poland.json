@@ -1,0 +1,14 @@
+{
+  "tag": "poland",
+  "server": "norkello.online",
+  "server_port": 8443,
+  "uuid": "2decf5ca-e8c7-4f49-91df-e778cb2d816a",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "norkello.org",
+    "reality": {
+      "public_key": "Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc",
+      "short_id": "887c0d72e771a934"
+    }
+  }
+}

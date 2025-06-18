@@ -1,0 +1,130 @@
+name: Download and Process Images
+
+on:
+  workflow_dispatch:
+    inputs:
+      json_file:
+        description: 'JSON file with listings data (filtering will be done in workflow)'
+        required: true
+        default: 'data/all_listings_for_github.json'
+      batch_size:
+        description: 'Batch size for processing'
+        required: false
+        default: '5'
+      max_retries:
+        description: 'Maximum retry attempts'
+        required: false
+        default: '3'
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+
+jobs:
+  download-images:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout main repository
+      uses: actions/checkout@v4
+      
+    - name: Checkout cian-tracker repository for images
+      uses: actions/checkout@v4
+      with:
+        repository: klimmm/cian-tracker
+        path: cian-tracker
+        token: ${{ secrets.CIAN_TRACKER_TOKEN }}
+      
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pillow numpy tensorflow tqdm
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        
+    - name: Create directories
+      run: |
+        mkdir -p cian-tracker/images
+        mkdir -p data
+        
+    - name: Download model if not exists
+      run: |
+        if [ ! -f "image_utils/best_model.h5" ]; then
+          echo "Model file not found. Please add best_model.h5 to the repository."
+          exit 1
+        fi
+        
+    - name: Download and process images
+      env:
+        JSON_FILE: ${{ github.event.inputs.json_file || 'data/all_listings_for_github.json' }}
+        BATCH_SIZE: ${{ github.event.inputs.batch_size || '5' }}
+        MAX_RETRIES: ${{ github.event.inputs.max_retries || '3' }}
+        IMAGE_DIR: './cian-tracker/images'
+        MODEL_PATH: './image_utils/best_model.h5'
+      run: |
+        python scripts/download_images_github_actions.py \
+          --json-file "$JSON_FILE" \
+          --image-dir "$IMAGE_DIR" \
+          --model-path "$MODEL_PATH" \
+          --batch-size "$BATCH_SIZE" \
+          --max-retries "$MAX_RETRIES" \
+          --workers 2
+
+    - name: Commit and push images to cian-tracker
+      run: |
+        cd cian-tracker
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add all images
+        git add images/
+        
+        # Check if there are changes to commit
+        if git diff --cached --quiet; then
+          echo "No new images to commit"
+        else
+          # Count new images
+          NEW_IMAGES=$(git diff --cached --name-only | grep -E '\.(jpg|jpeg|png)$' | wc -l)
+          echo "Committing $NEW_IMAGES new images"
+          
+          # Create commit message with timestamp
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          git commit -m "Auto-update images: $NEW_IMAGES new images ($TIMESTAMP)"
+          
+          # Push changes
+          git push
+          echo "✅ Successfully pushed $NEW_IMAGES images to cian-tracker repository"
+        fi
+        
+    - name: Upload images as backup artifacts
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: downloaded-images-backup
+        path: cian-tracker/images/
+        retention-days: 7
+        
+    - name: Upload filtered listings debug file
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: filtered-listings-debug
+        path: data/filtered_listings_debug.json
+        retention-days: 7
+        
+    - name: Create download summary
+      run: |
+        echo "## Image Download Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- Total directories: $(find cian-tracker/images -type d | wc -l)" >> $GITHUB_STEP_SUMMARY
+        echo "- Total images: $(find cian-tracker/images -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" | wc -l)" >> $GITHUB_STEP_SUMMARY
+        echo "- Storage used: $(du -sh cian-tracker/images | cut -f1)" >> $GITHUB_STEP_SUMMARY
+        echo "- Repository: [klimmm/cian-tracker](https://github.com/klimmm/cian-tracker)" >> $GITHUB_STEP_SUMMARY
+        
+        # Add filtering info if debug file exists
+        if [ -f "data/filtered_listings_debug.json" ]; then
+          FILTERED_COUNT=$(jq length data/filtered_listings_debug.json)
+          echo "- Filtered listings processed: $FILTERED_COUNT" >> $GITHUB_STEP_SUMMARY
+        fi

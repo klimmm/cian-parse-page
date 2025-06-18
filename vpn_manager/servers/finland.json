@@ -1,0 +1,14 @@
+{
+  "tag": "finland",
+  "server": "skoffery.store",
+  "server_port": 8443,
+  "uuid": "b0028384-9c5b-4337-98a9-ff019af32626",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "skoffery.com",
+    "reality": {
+      "public_key": "sIxUEhQz9B17--Buqgm9UmSUkYVewtKKXR62OB_LNkY",
+      "short_id": "69e6bf47a9d3be87"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tag": "germany",
+  "server": "hummylane.online",
+  "server_port": 8443,
+  "uuid": "fbdf7372-a57b-4c06-8c1c-bacbb80eed22",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "hummylane.com",
+    "reality": {
+      "public_key": "ky3t1iV9CUfV0YgTFUXb86wLGP1-5iy3mvBX0x05nSs",
+      "short_id": "d2bb16ec9f9bf907"
+    }
+  }
+}

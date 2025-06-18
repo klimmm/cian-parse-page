@@ -1,0 +1,14 @@
+{
+  "tag": "latvia",
+  "server": "braskivo.ru",
+  "server_port": 8443,
+  "uuid": "ce7af819-020b-42dc-9fe1-6377dc64a6b3",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "braskivo.com",
+    "reality": {
+      "public_key": "7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0",
+      "short_id": "f1071c148a5aefc4"
+    }
+  }
+}

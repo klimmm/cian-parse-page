@@ -1,0 +1,14 @@
+{
+  "tag": "italy",
+  "server": "tralalero.site",
+  "server_port": 8443,
+  "uuid": "ef6e620e-b499-4bed-a78f-ac6a7bf9262b",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "tralalero.online",
+    "reality": {
+      "public_key": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
+      "short_id": "6419bed7fd0a2cff"
+    }
+  }
+}

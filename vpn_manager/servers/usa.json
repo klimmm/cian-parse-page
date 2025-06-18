@@ -1,0 +1,14 @@
+{
+  "tag": "usa",
+  "server": "jallermo.site",
+  "server_port": 8443,
+  "uuid": "303500d8-9e79-4ef1-962e-f6434c957da6",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "jallermo.com",
+    "reality": {
+      "public_key": "61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0",
+      "short_id": "cefa7ca418bd0dcb"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tag": "japan",
+  "server": "shimorra.site",
+  "server_port": 8443,
+  "uuid": "d6f73cb9-2881-4a1b-b76b-d64bf30d4cf9",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "shimorra.pro",
+    "reality": {
+      "public_key": "CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8",
+      "short_id": "98f4e12d491b58ec"
+    }
+  }
+}

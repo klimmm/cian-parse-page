@@ -1,0 +1,14 @@
+{
+  "tag": "hungary",
+  "server": "grinoree.ru",
+  "server_port": 8443,
+  "uuid": "8f530912-0185-4962-a57c-34296ff31f3a",
+  "flow": "xtls-rprx-vision",
+  "tls": {
+    "server_name": "grinoree.com",
+    "reality": {
+      "public_key": "7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg",
+      "short_id": "8ba12e75110b7a9c"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+MAPPING RUSSIAN FIELDS TO CSV COLUMNS
+==================================================
+
+RENTAL_TERMS MAPPINGS:
+------------------------------
+Залог                          -> security_deposit          ✓
+Комиссии                       -> commission                ✓
+Комиссия                       -> commission                ✓
+Оплата ЖКХ                     -> utilities_payment         ✓
+Предоплата                     -> prepayment                ✓
+Предоплаты                     -> prepayment                ✓
+Срок аренды                    -> rental_period             ✓
+Торг                           -> negotiable                ✓
+Условия проживания             -> living_conditions         ✓
+
+APARTMENT MAPPINGS:
+------------------------------
+Балкон/лоджия                  -> balcony                   ✓
+Вид из окон                    -> view                      ✓
+Высота потолков                -> ceiling_height            ✓
+Год постройки                  -> year_built                ✓
+Жилая площадь                  -> living_area               ✓
+Комнат в аренду                -> rooms_for_rent            ✓
+Комнат в квартире              -> rooms_in_apartment        ✓
+Общая площадь                  -> total_area                ✓
+Планировка                     -> layout                    ✓
+Площадь комнат                 -> room_area                 ✓
+Площадь кухни                  -> kitchen_area              ✓
+Ремонт                         -> renovation                ✓
+Санузел                        -> bathroom                  ✓
+Спальных мест                  -> sleeping_places           ✓
+Тип жилья                      -> apartment_type            ✓
+Этаж                           -> floor                     ✓
+
+BUILDING MAPPINGS:
+------------------------------
+Аварийность                    -> emergency                 ✓
+Газоснабжение                  -> gas_supply                ✓
+Год постройки                  -> year_built                ✓
+Количество лифтов              -> elevators                 ✓
+Мусоропровод                   -> garbage_chute             ✓
+Отопление                      -> heating                   ✓
+Парковка                       -> parking                   ✓
+Подъезды                       -> entrances                 ✓
+Строительная серия             -> building_series           ✓
+Тип дома                       -> building_type             ✓
+Тип перекрытий                 -> ceiling_type              ✓
+
+FEATURES MAPPINGS:
+------------------------------
+Ванна                          -> has_bathtub               ✓
+Душевая кабина                 -> has_shower_cabin          ✓
+Интернет                       -> has_internet              ✓
+Кондиционер                    -> has_air_conditioner       ✓
+Мебель в комнатах              -> has_room_furniture        ✓
+Мебель на кухне                -> has_kitchen_furniture     ✓
+Посудомоечная машина           -> has_dishwasher            ✓
+Стиральная машина              -> has_washing_machine       ✓
+Телевизор                      -> has_tv                    ✓
+Холодильник                    -> has_refrigerator          ✓
+
+SUMMARY:
+------------------------------
+Total mappings: 48
+Found in CSV: 48
+Missing from CSV: 0

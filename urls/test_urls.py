@@ -1,0 +1,1 @@
+test = ['https://www.cian.ru/rent/flat/317357595/']
