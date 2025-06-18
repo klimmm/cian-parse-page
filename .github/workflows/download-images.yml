@@ -74,6 +74,17 @@ jobs:
       run: |
         cd cian-tracker
         
+        # Debug: check if images actually exist
+        echo "🔍 Current directory: $(pwd)"
+        echo "🔍 Contents of images/:"
+        ls -la images/ | head -10
+        echo "🔍 Looking for 318598750:"
+        ls -la images/ | grep 318598750 || echo "318598750 NOT FOUND"
+        if [ -d "images/318598750" ]; then
+          echo "🔍 318598750 exists, contents:"
+          ls -la images/318598750/
+        fi
+        
         # Simple add and commit - no sparse checkout bullshit
         git add images/
         git status
