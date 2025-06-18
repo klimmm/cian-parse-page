@@ -9,13 +9,17 @@ import sys
 import json
 import argparse
 import subprocess
+import requests
+import time
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import urlparse
+from tqdm import tqdm
 
 # Add project root to path
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
-from image_utils.download_images import download_and_predict_images
 from utils.image_dedup import dedupe_images
 
 
@@ -108,6 +112,88 @@ def smart_prefilter_listings(all_listings: list, repo_path: str) -> list:
     return to_download
 
 
+def download_image(url: str, filepath: str, max_retries: int = 3) -> bool:
+    """Download a single image with retries."""
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, timeout=30, stream=True)
+            if response.status_code == 200:
+                os.makedirs(os.path.dirname(filepath), exist_ok=True)
+                with open(filepath, 'wb') as f:
+                    for chunk in response.iter_content(chunk_size=8192):
+                        f.write(chunk)
+                return True
+            else:
+                print(f"⚠️ HTTP {response.status_code} for {url}")
+        except Exception as e:
+            print(f"⚠️ Attempt {attempt + 1} failed for {url}: {e}")
+            if attempt < max_retries - 1:
+                time.sleep(2 ** attempt)  # Exponential backoff
+    return False
+
+
+def download_images_for_listings(listings: list, image_dir: str, max_retries: int = 3, workers: int = 2):
+    """Download images for all listings."""
+    print(f"🖼️ Starting image download for {len(listings)} listings...")
+    
+    total_downloaded = 0
+    total_failed = 0
+    
+    for listing in tqdm(listings, desc="Processing listings"):
+        offer_id = str(listing.get("offer_id"))
+        urls = listing.get("image_urls") or []
+        
+        if not urls:
+            continue
+            
+        offer_dir = os.path.join(image_dir, offer_id)
+        os.makedirs(offer_dir, exist_ok=True)
+        
+        # Download images for this listing
+        download_tasks = []
+        for i, url in enumerate(urls):
+            if not url:
+                continue
+                
+            # Generate filename from URL
+            parsed_url = urlparse(url)
+            filename = f"image_{i:03d}.jpg"
+            if parsed_url.path:
+                ext = os.path.splitext(parsed_url.path)[1].lower()
+                if ext in ['.jpg', '.jpeg', '.png']:
+                    filename = f"image_{i:03d}{ext}"
+            
+            filepath = os.path.join(offer_dir, filename)
+            
+            # Skip if already exists
+            if os.path.exists(filepath):
+                continue
+                
+            download_tasks.append((url, filepath))
+        
+        # Download images in parallel for this listing
+        if download_tasks:
+            with ThreadPoolExecutor(max_workers=workers) as executor:
+                future_to_url = {
+                    executor.submit(download_image, url, filepath, max_retries): url 
+                    for url, filepath in download_tasks
+                }
+                
+                for future in as_completed(future_to_url):
+                    url = future_to_url[future]
+                    try:
+                        if future.result():
+                            total_downloaded += 1
+                        else:
+                            total_failed += 1
+                    except Exception as e:
+                        print(f"⚠️ Error downloading {url}: {e}")
+                        total_failed += 1
+    
+    print(f"✅ Download completed: {total_downloaded} downloaded, {total_failed} failed")
+    return total_downloaded, total_failed
+
+
 def setup_sparse_checkout(repo_path: str, filtered_listings: list):
     """Setup sparse checkout for only the directories we need."""
     print(f"🎯 Setting up sparse checkout for {len(filtered_listings)} listings...")
@@ -142,11 +228,12 @@ def main():
     parser = argparse.ArgumentParser(description='Smart image download with sparse checkout')
     parser.add_argument('--json-file', required=True, help='JSON file with listings data')
     parser.add_argument('--image-dir', required=True, help='Directory to save images')
-    parser.add_argument('--model-path', required=True, help='Path to ML model file')
+    parser.add_argument('--model-path', required=False, help='Path to ML model file (optional)')
     parser.add_argument('--batch-size', type=int, default=5, help='Batch size for processing')
     parser.add_argument('--max-retries', type=int, default=3, help='Maximum retry attempts')
     parser.add_argument('--workers', type=int, default=2, help='Number of worker threads')
     parser.add_argument('--no-dedup', action='store_true', help='Skip deduplication step')
+    parser.add_argument('--no-predict', action='store_true', help='Skip ML prediction step')
     
     args = parser.parse_args()
     
@@ -154,17 +241,19 @@ def main():
     print(f"📋 Configuration:")
     print(f"   - JSON file: {args.json_file}")
     print(f"   - Image directory: {args.image_dir}")
-    print(f"   - Model path: {args.model_path}")
+    if not args.no_predict:
+        print(f"   - Model path: {args.model_path}")
     print(f"   - Batch size: {args.batch_size}")
     print(f"   - Max retries: {args.max_retries}")
     print(f"   - Workers: {args.workers}")
+    print(f"   - Skip predictions: {args.no_predict}")
     
     # Validate inputs
     if not os.path.exists(args.json_file):
         print(f"❌ JSON file not found: {args.json_file}")
         sys.exit(1)
         
-    if not os.path.exists(args.model_path):
+    if not args.no_predict and args.model_path and not os.path.exists(args.model_path):
         print(f"❌ Model file not found: {args.model_path}")
         sys.exit(1)
     
@@ -213,22 +302,23 @@ def main():
     except Exception as e:
         print(f"⚠️ Warning: Could not save filtered listings: {e}")
     
-    # Download and predict images
-    print(f"🖼️ Starting image download and prediction for {len(filtered_listings)} listings...")
-    
-    try:
-        download_and_predict_images(
-            parsed_apts=filtered_listings,
-            image_dir=args.image_dir,
-            model_path=args.model_path,
-            max_retries=args.max_retries,
-            batch_size=args.batch_size,
-            workers=args.workers,
-            parallel_mode=True
-        )
-        print("✅ Image download and prediction completed successfully!")
-    except Exception as e:
-        print(f"❌ Error during image download: {e}")
+    # Download images
+    if args.no_predict:
+        print(f"🖼️ Starting image download for {len(filtered_listings)} listings...")
+        try:
+            total_downloaded, total_failed = download_images_for_listings(
+                listings=filtered_listings,
+                image_dir=args.image_dir,
+                max_retries=args.max_retries,
+                workers=args.workers
+            )
+            print("✅ Image download completed successfully!")
+        except Exception as e:
+            print(f"❌ Error during image download: {e}")
+            sys.exit(1)
+    else:
+        # Original prediction mode (would need import)
+        print("❌ Prediction mode not supported in this version. Use --no-predict flag.")
         sys.exit(1)
     
     # Deduplicate images

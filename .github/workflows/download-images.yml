@@ -54,7 +54,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests pillow numpy tensorflow tqdm
+        pip install requests pillow tqdm
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         
     - name: Create directories
@@ -62,35 +62,27 @@ jobs:
         mkdir -p cian-tracker/images
         mkdir -p data
         
-    - name: Download model if not exists
-      run: |
-        if [ ! -f "image_utils/best_model.h5" ]; then
-          echo "Model file not found. Please add best_model.h5 to the repository."
-          exit 1
-        fi
-        
-    - name: Download and process images (with smart checkout)
+    - name: Download images (with smart checkout)
       env:
         JSON_FILE: ${{ github.event.inputs.json_file || 'data/all_listings_for_github.json' }}
         BATCH_SIZE: ${{ github.event.inputs.batch_size || '5' }}
         MAX_RETRIES: ${{ github.event.inputs.max_retries || '3' }}
         IMAGE_DIR: './cian-tracker/images'
-        MODEL_PATH: './image_utils/best_model.h5'
       run: |
         python scripts/download_images_smart_checkout.py \
           --json-file "$JSON_FILE" \
           --image-dir "$IMAGE_DIR" \
-          --model-path "$MODEL_PATH" \
           --batch-size "$BATCH_SIZE" \
           --max-retries "$MAX_RETRIES" \
-          --workers 2
+          --workers 2 \
+          --no-predict
 
     - name: Commit and push images to cian-tracker
       run: |
         cd cian-tracker
         
-        # Add all images (including new ones)
-        git add images/
+        # Add all images (including new ones) with sparse option
+        git add --sparse images/
         
         # Check if there are changes to commit
         if git diff --cached --quiet; then
