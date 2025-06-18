@@ -102,18 +102,28 @@ jobs:
                      -m "Repository: klimmm/cian-parse-page" \
                      -m "Workflow: Download and Process Images"
           
-          # Push changes
-          git push origin main
-          echo "✅ Successfully pushed $NEW_IMAGES images to cian-tracker repository"
+          # Pull latest changes and rebase our commit
+          echo "🔄 Pulling latest changes and rebasing..."
+          git pull --rebase origin main
+          
+          # Push changes with retry logic
+          echo "⬆️ Pushing changes..."
+          for i in {1..3}; do
+            if git push origin main; then
+              echo "✅ Successfully pushed $NEW_IMAGES images to cian-tracker repository"
+              break
+            else
+              echo "⚠️ Push attempt $i failed, retrying..."
+              if [ $i -lt 3 ]; then
+                git pull --rebase origin main
+                sleep 5
+              else
+                echo "❌ Failed to push after 3 attempts"
+                exit 1
+              fi
+            fi
+          done
         fi
-        
-    - name: Upload images as backup artifacts
-      uses: actions/upload-artifact@v4
-      if: always()
-      with:
-        name: downloaded-images-backup
-        path: cian-tracker/images/
-        retention-days: 7
         
     - name: Upload filtered listings debug file
       uses: actions/upload-artifact@v4
