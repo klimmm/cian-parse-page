@@ -75,10 +75,7 @@ jobs:
         git config core.sparseCheckout false
         rm -f .git/info/sparse-checkout
         
-        # RESET GIT INDEX COMPLETELY
-        git reset --hard HEAD
-        
-        # FORCE GIT TO SEE ALL FILES
+        # FORCE GIT TO SEE ALL FILES WITHOUT LOSING DOWNLOADED IMAGES
         git read-tree -m -u HEAD
         
         # Add all images (git should now see them)
